@@ -1,33 +1,28 @@
-html{
-	height: 100%
-}
-
 body {
 	font-family: 'Quattrocento', serif;
-	background:  -webkit-linear-gradient(#FFF500, rgba(255,255,255,0)50%), url('../bg.jpg') no-repeat;
-	background:  -moz-linear-gradient(#FFF500, rgba(255,255,255,0)50%), url('../bg.jpg') no-repeat;
-	background:  -o-linear-gradient(#FFF500, rgba(255,255,255,0)50%), url('../bg.jpg') no-repeat;
-	background:  linear-gradient(#FFF500, rgba(255,255,255,0)50%), url('../bg.jpg') no-repeat;
+	background:  -webkit-linear-gradient(#FFF500, rgba(255,255,255,0) 50%), url('../bg.jpg') no-repeat;
+	background:  -moz-linear-gradient(#FFF500, rgba(255,255,255,0) 50%), url('../bg.jpg') no-repeat;
+	background:  -o-linear-gradient(#FFF500, rgba(255,255,255,0) 50%), url('../bg.jpg') no-repeat;
+	background:  linear-gradient(#FFF500, rgba(255,255,255,0) 50%), url('../bg.jpg') no-repeat;
 	background-size: cover;
-
 }
 
 .container {
 	background-color: #FFF;
-	max-width: 1000px;
-	margin: auto;
 	border: #3F046F solid 3px;
+	background-image: url('../geometry.png');
+	background-repeat: repeat;
 }
 
 .heading {
-	background-color: #9240D5;
+	background-color: rgba(146, 64, 213, .75);
+	border-bottom: #3F046F solid 3px;
 }
 
 h1 {
 	color: #3F046F;
 	text-align: left;
-	font-size: 2.5em;
-	background-color: #9240D5;
+	font-size: 3em;
 }
 
 .heading img{
@@ -40,24 +35,23 @@ h1 {
 .heading h1 {
 	float: right;
 	margin: 5px;
-	background-color: #9240D5;
 }
 
 .links {
 	clear:both;	
-	background-color: #E038AD;
-	height: 52px;
+	background-color: rgba(224, 56, 173, .75);
+	height: 51px;
+	margin: 5px 0;
 }
 
 .links ul {
 	list-style: none;
-	background-color: #E038AD;
+	margin: 0;
 }
 
 .links li a{
 	float: left;
 	margin-right: 2%;
-	background-color: #E038AD;
 	color: #912470;
 	padding: 1em;
 	border: 1px solid #FFF;
@@ -83,12 +77,14 @@ h2 {
 	color: #180773;
 	font-size: 2em;
 	text-align: left;
+	padding-top: .5em;
 }
 
 h3 {
 	color: #180773;
 	font-size: 1.1em;
 	text-align: left;
+	padding-top: 5px;
 }
 
 p {
@@ -96,16 +92,17 @@ p {
 	margin: auto;
 }
 
-.about img {
+
+
+#about img {
 	width: 150px;
 	border: #9240D5 solid 3px;
 	padding: 5px;
-	position: relative;
-	left: 75%;
 }
 
+
 .ptable {
-	background-color: #fffa73;
+	background-color: rgba(255, 250, 115, .75);
 	color: #180773;
 	border: #9240D5 solid 3px;
 	padding: 5px;
@@ -116,10 +113,11 @@ p {
 
 .copyright {
 	text-align: center;
-	background-color: #E038AD;
+	background-color: rgba(224, 56, 173, .75);
 	color: #912470;
 	border-top: #9240D5 solid 3px;
 	border-bottom: #9240D5 solid 3px;
+	padding: 5px;
 }
 
 
