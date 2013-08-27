@@ -73,6 +73,19 @@ h1 {
 	text-decoration: underline;
 }
 
+/* a:link {
+	color: #C10087;
+} Doesn't work yet */
+
+a:link:hover {
+	background-color: #A69F00;
+	text-decoration: none;
+}
+
+/* a:visited {
+	color: #9240D5;
+} doesn't work yet*/
+
 h2 {
 	clear:both;
 	border-top: #9240D5 solid 3px;
@@ -123,6 +136,45 @@ p {
 	padding: 5px;
 	margin: auto;
 	margin-bottom: 10px;
+}
+
+form {
+	width: 50%;
+	min-width: 400px;
+}
+
+label {
+	color: #2E16B1;
+	font-weight: bold;
+	margin: 3px;
+	padding: 1px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+	width: 50%;
+	margin: 3px;
+	padding: 1px;
+	border: #2E16B1 solid 1px;
+	background-color: #FFFA73;
+}
+
+input[type="submit"] {
+	background-color: #FFFA40;
+	border: #2E16B1 solid 1px;
+	padding: 5px;
+	margin: 5px 0;
+	border-radius: 3px;
+}
+
+input:focus,
+textarea:focus {
+	background-color: #A69F00;
+}
+
+input[type="submit"]:hover {
+	background-color: #A69F00;
 }
 
 /*Media query for medium screens*/
