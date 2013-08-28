@@ -122,6 +122,17 @@ p {
 /*css for specific html pages*/
 
 
+.first::first-letter {
+	float: left;
+	margin-right: 10px;
+	padding: 5px 10px;
+	background: #FFFA73;
+	font-size: 1.5em;
+	line-height: 1;
+	color: #A69F00;
+	border: #A69F00 solid 1px;
+}
+
 #about img {
 	width: 150px;
 	border: #9240D5 solid 3px;
@@ -136,6 +147,11 @@ p {
 	padding: 5px;
 	margin: auto;
 	margin-bottom: 10px;
+}
+
+a[href$=".docx"] {
+	background: url('../img/doc.png') no-repeat 0 2px;
+	padding-left: 25px;
 }
 
 form {
