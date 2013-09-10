@@ -17,20 +17,14 @@ h2{
 }
 
 
-#harry img{
+#harry img,
+#jack img,
+#arwen img {
 	border: 8px solid #99CCCC;
 	border-radius: 4px;
+	width: 300px;
 }
 
-#jack img{
-	border: 8px solid #99CCCC;
-	border-radius: 4px;
-}
-
-#arwen img{
-	border: 8px solid #99CCCC;
-	border-radius: 4px;
-}
 
 #copyright {
 	border-top: 8px solid #99CCCC;
@@ -39,8 +33,33 @@ h2{
 	text-align: center;
 }
 
+@media screen and (max-width: 768px) {
 
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	width: 100%;
+	margin: 0 4% 1% 0;
+	float: left;
+	display: block;
+}
+}
 
+@media screen and (max-width: 380px) {
 
+	#harry img,
+	#jack img,
+	#arwen img {
+	width: 150px;
+}
 
-
+}

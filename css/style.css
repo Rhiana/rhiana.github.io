@@ -42,6 +42,7 @@ h1 {
 	background-color: rgba(224, 56, 173, .75);
 	height: 51px;
 	margin: 5px 0;
+	font-size: .75em;
 }
 
 .links ul {
@@ -60,6 +61,7 @@ h1 {
 	display: block;
 	width: 12%;
 	text-align: center;
+	margin-top: 4px;
 }
 
 .links a:before {
@@ -195,33 +197,80 @@ input[type="submit"]:hover {
 
 /*Media query for medium screens*/
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 675px) {
+
+	h1 {
+		font-size: 2.125em;
+		text-align: right;
+	}
+
+	.heading {
+		max-height: 20%;
+	}
+
+	.heading img{
+		max-height: 25%;
+		border: #3F046F solid 3px;
+	}
 
 	.links li a{
 		font-size: .75em;
 		width: 20%;
+		margin-top: 4px;
 	}
 
 	.links {
-		height: 80px;
+		height: 75px;
 	}
+
+	h2 {
+		font-size: 1.75em;
+	}
+
+	p {
+		text-align: justify;
+		font-size: .75em;
+		padding: 1.5px;
+	}
+
+	#about img {
+		width: 30%;
+	}
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	width: 100%;
+	margin: 0 4% 1% 0;
+	float: left;
+	display: block;
+}
 
 }
 
 /*Media query for small screens*/
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 380px) {
 
 	.links li a{
 		font-size: .75em;
-		margin: 0 0 1% 0;
+		margin: 2% 0 1% 0;
 		width: 100%;
 		position: relative;
 		right: 18%;
 	}
 
 	.links {
-		height: 217px;
+		height: 200px;
 		margin: 5px 0;
 	}
 
@@ -248,5 +297,48 @@ input[type="submit"]:hover {
 	p {
 		text-align: justify;
 	}
+
+	#about img {
+		display: none;
+	}
 }
 
+/* Print stylesheet, currently doesn't work :( */
+
+/*@media print {
+	* {
+		background: transparent;
+		color: #000;
+	}
+
+	.heading,
+	.links,
+	.copyright,
+	img {
+		display: none;
+	}
+
+	a[href^="http:"]::after {
+		content: " [" attr(href)"]";
+		color: blue;
+	}
+
+	@page {
+		margin: .5cm;
+	}
+
+	@page :first {
+		margin-top: 2cm;
+	}
+
+	h2, ul {
+		page-break-after: avoid;
+	}
+
+	p, ul {
+		orphans: 3;
+		widows: 3;
+		font-size: 11pt;
+	}
+
+}*/
