@@ -148,7 +148,7 @@ p {
 	border: #9240D5 solid 3px;
 	padding: 5px;
 	margin: auto;
-	margin-bottom: 10px;
+	margin: 10px 0;
 }
 
 a[href$=".docx"] {
@@ -233,9 +233,18 @@ input[type="submit"]:hover {
 		padding: 1.5px;
 	}
 
+	td {
+		font-size: .75em;
+	}
+
 	#about img {
 		width: 30%;
 	}
+
+	form {
+	width: 50%;
+	min-width: 300px;
+}
 
 .grid_1,
 .grid_2,
@@ -301,6 +310,18 @@ input[type="submit"]:hover {
 	#about img {
 		display: none;
 	}
+
+	.heading img{
+		max-height: 15%;
+		border: #3F046F solid 1px;
+	}
+
+	form {
+		width: 50%;
+		min-width: 300px;
+
+}
+
 }
 
 /* Print stylesheet, currently doesn't work :( */
