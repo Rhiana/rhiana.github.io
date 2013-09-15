@@ -1,0 +1,86 @@
+body {
+	font-family: 'Quintessential', cursive;
+	color: #FFE673;
+	background: -webkit-radial-gradient(closest-corner circle, #1142AA, #3714B0);
+	background: -moz-radial-gradient(closest-corner circle, #1142AA, #3714B0);
+	background: -o-radial-gradient(closest-corner circle, #1142AA, #3714B0);
+	background: radial-gradient(closest-corner circle, #1142AA, #3714B0);
+}
+
+h1 {
+	font-size: 1.50em;
+	letter-spacing: -1.5px;
+	text-align: center;
+	color: #FFD200;
+	border-bottom: 8px solid #06276F;
+}
+
+
+h2,
+#home a {
+	font-size: 1.250em;
+	color: #6F0AAA;
+	font-weight: bold;
+}
+
+
+#harry img,
+#jack img,
+#arwen img,
+#aragorn img {
+	border: 8px solid #06276F;
+	border-radius: 4px;
+	height: 300px;
+	margin: 10px;
+}
+
+#arwen img {
+	width: 400px;
+}
+
+
+#copyright {
+	border-top: 8px solid #06276F;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
+
+@media screen and (max-width: 855px) {
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	width: 100%;
+	margin: 0 2% 1% 0;
+	float: left;
+	display: block;
+}
+
+}
+
+@media screen and (max-width: 380px) {
+
+#harry img,
+#jack img,
+#arwen img,
+#aragorn img {
+	height: 150px;
+	width: 150px;
+}
+
+h1 {
+	font-size: 1em;
+}
+
+}
+

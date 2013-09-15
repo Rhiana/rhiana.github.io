@@ -187,13 +187,11 @@ input[type="submit"] {
 }
 
 input:focus,
-textarea:focus {
-	background-color: #A69F00;
-}
-
+textarea:focus,
 input[type="submit"]:hover {
 	background-color: #A69F00;
 }
+
 
 /*Media query for medium screens*/
 
@@ -322,6 +320,46 @@ input[type="submit"]:hover {
 }
 
 }
+
+/* Print stylesheet, currently doesn't work :( */
+
+/*@media print {
+	* {
+		background: transparent;
+		color: #000;
+	}
+
+	.heading,
+	.links,
+	.copyright,
+	img {
+		display: none;
+	}
+
+	a[href^="http:"]::after {
+		content: " [" attr(href)"]";
+		color: blue;
+	}
+
+	@page {
+		margin: .5cm;
+	}
+
+	@page :first {
+		margin-top: 2cm;
+	}
+
+	h2, ul {
+		page-break-after: avoid;
+	}
+
+	p, ul {
+		orphans: 3;
+		widows: 3;
+		font-size: 11pt;
+	}
+
+}*/
 
 /* Print stylesheet, currently doesn't work :( */
 

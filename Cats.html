@@ -1,73 +1,27 @@
-<!DOCTYPE HTML>
+<! DOCTYPE HTML>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="viewport" content="width=device-width">
 	<title>Cats!</title>
+	<meta name="viewport" content="width=device-width">
 	<link rel="stylesheet" href="css/normalise.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="cats/css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/catstyle.css" type="text/css" media="screen">
 	<link href='http://fonts.googleapis.com/css?family=Quintessential' rel='stylesheet' type='text/css'>
-<!--
-	<style>
-
-		body {
-			font-family: 'Quintessential', cursive;
-			color: #CC9933;
-			background: #330099;
-		}
-
-
-		h1 {
-			font-size: 1.50em;
-			letter-spacing: -1.5px;
-			text-align: center;
-		}
-
-		h2{
-			font-size: 1.250em;
-			color: #99CCCC;
-		}
-
-
-		#harry img{
-			border: 8px solid #99CCCC;
-			border-radius: 4px;
-		}
-
-		#jack img{
-			border: 8px solid #99CCCC;
-			border-radius: 4px;
-		}
-
-		#arwen img{
-			border: 8px solid #99CCCC;
-			border-radius: 4px;
-		}
-
-		#copyright {
-			border-top: 8px solid #99CCCC;
-			padding: 10px 0px;
-			margin: 15px 0px;
-			text-align: center;
-		}
-
-	</style>
--->
 </head>
 
 <body>
-	<div class="container clearfix">
+	<div id="top" class="container clearfix">
 		<div>
 			<h1>Cats have been a wonderful influence in my life.<br> I love seeing them grow from kittens and develop unique personalities.</h1>
-			<div class="grid_6" alpha>
+			<div class="grid_6 alpha">
 				<h2>Harry Heppenstall</h2>
 				<p>Here is my favorite cat Harry. We got Harry in 1992 when I was 6 years old as a kitten. I would often dress him up in dolls clothes and push him around in a stroller.</p>
 					<div id="harry">
 					<img src="img/harry.jpg" alt="Harry Heppenstall">
 					</div>
 			</div>
-			<div class="grid_5" omega>
+			<div class="grid_6 omega">
 				<h2>Jack the Cat</h2>
 				<p>Before him my parents had a cat called Jack. Which is now the name of my little brother. Jack was more of a tom cat and would spend a lot of time away from home chasing lady cats.</p>
 					<div id="jack">
@@ -75,17 +29,31 @@
 					</div>
 			</div>
 
-			<div class="grid_12">
+			<div class="grid_6 alpha">
 				<h2>Arwen Heath</h2>
-				<p>After I brought my first home in 2009 my first stop was to the RSPCA to pick up a 2 year old black, almost Burmese, cat I renamed Arwen. Arwen is very adventurous cat and often finds herself getting into trouble!</p>
+				<p>After I brought my first home in 2009 my first stop was to the RSPCA to pick up a 2 year old black, almost Burmese, cat I renamed Arwen. She is extremely friendly, as it is her primary defense mechanism, however Arwen is also very adventurous cat and often finds herself getting into trouble!</p>
 				<div id="arwen">
-					<div class="grid_6" alpha>
+					<div>
 						<img src="img/toy-arwen.jpg" alt="Toy Arwen">
 						<img src="img/xmas-arwen.jpg" alt="Christmas Arwen">
-					<div class="grid_5 omega" >
-						<img src="img/cheeky-arwen.jpg" alt="Cheeky Arwen">
 					</div>
 				</div>
+			</div>
+
+			<div class="grid_6 omega">
+				<h2>Aragorn Heath</h2>
+				<p>A year later in 2010 I returned to the RSPCA and found Aragorn. He was hiding on top of a large structure. After coaxing him down and inspecting his bold patterns his new name became obvious. Unlike Arwen he is a bit skittish, but very sweet when he warms up to you.</p>
+				<div id="aragorn">
+					<div>
+						<img src="img/king-aragorn.jpg" alt="King Aragorn">
+						<img src="img/sullen-aragorn.jpg" alt="Sullen Aragorn">
+					</div>
+				</div>
+			</div>
+
+			<div id="home" class="grid_12">
+				<a href="#top">Top</a><br>
+				<a href="index.html">Home</a>
 			</div>
 
 			<div id="copyright" class="grid_12">

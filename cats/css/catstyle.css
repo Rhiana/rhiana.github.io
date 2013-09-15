@@ -1,0 +1,46 @@
+body {
+	font-family: 'Quintessential', cursive;
+	color: #CC9933;
+	background: #330099;
+}
+
+
+h1 {
+	font-size: 1.50em;
+	letter-spacing: -1.5px;
+	text-align: center;
+}
+
+h2{
+	font-size: 1.250em;
+	color: #99CCCC;
+}
+
+
+#harry img{
+	border: 8px solid #99CCCC;
+	border-radius: 4px;
+}
+
+#jack img{
+	border: 8px solid #99CCCC;
+	border-radius: 4px;
+}
+
+#arwen img{
+	border: 8px solid #99CCCC;
+	border-radius: 4px;
+}
+
+#copyright {
+	border-top: 8px solid #99CCCC;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
+
+
+
+
+
+
