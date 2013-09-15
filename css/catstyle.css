@@ -1,4 +1,4 @@
-body {
+html {
 	font-family: 'Quintessential', cursive;
 	color: #FFE673;
 	background: -webkit-radial-gradient(closest-corner circle, #1142AA, #3714B0);
@@ -7,12 +7,18 @@ body {
 	background: radial-gradient(closest-corner circle, #1142AA, #3714B0);
 }
 
+.container {
+	background-color: #210672;
+	border: 8px solid #06276F
+}
+
 h1 {
 	font-size: 1.50em;
 	letter-spacing: -1.5px;
 	text-align: center;
 	color: #FFD200;
 	border-bottom: 8px solid #06276F;
+	padding: 10px;
 }
 
 
