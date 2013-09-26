@@ -1,4 +1,4 @@
-<! DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 	<title>Rhiana's Projects'</title>
@@ -10,14 +10,14 @@
 </head>
 <body>
 	<div class="container">
-		<div class="heading">
-			<h1><strong>Rhiana Heath's Projects</strong></h1>
+		<div class="heading" class="fittext">
+			<h1><strong>My Projects</strong></h1>
 			<object>
 			<img src="img/rhianaheath.jpg" alt="Rhiana Heath">
 			</object>
 		</div>
 
-		<div class="links">
+		<div class="links" class="fittext">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
@@ -28,7 +28,7 @@
 		</div>
 
 		<div id="projects" class="grid_12">
-		<h2 class="grid_12">Projects</h2>
+		<h2 class="grid_12" class="fittext">Projects</h2>
 		<p class="first">Here is a table detailing some of the projects I have been involved in. My first project was during an accounts position in 2010 where I created a database to streamline my job. Along the way I learnt SQL to facilitate this. During the middle of 2013 I began to learn front-end web development and started projects to consolidate the knowledge learnt.</p><br>
 
 		<table border="1" class="ptable">
@@ -78,11 +78,36 @@
 		</table>
 
 		</div>
+		<h3 class="grid_12" style="text-align: center;">Hansard Hack Video</h3>
+		<div id="video" class="grid_12">
+
+	    	<object width="400" height="275">
+				<param name="video" value="http://www.youtube.com/watch?v=9g0Tt3syInI"></param>
+				<param name="allowFullScreen" value="true"></param>
+				<param name="allowscriptaccess" value="always"></param>
+				<embed src="http://www.youtube.com/watch?v=9g0Tt3syInI" type="application/x-shockwave-flash" width="400" height="275" allowscriptaccess="always" allowfullscreen="true"></embed>
+        		<!--<iframe src="http://www.youtube.com/watch?v=9g0Tt3syInI" width="400" height="275" frameborder="0"></iframe>-->
+    		</object>
+    	</div>
 
 		<div class="copyright">
 	      <p>&copy; 2013 Rhiana Heath Freelancer. All Rights Reserved</p>
     	</div>
 	</div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+    <script src="js/jquery.fitvids.js"></script>
+    <script>
+          //$("#video").fitVids();
+    </script>
+
+	<script type="text/javascript" src="js/jquery.fittext.js"></script>
+
+	<script type="text/javascript">
+		$(".fittext").fitText(2);
+	</script>
+
 </body>
 
 </html>

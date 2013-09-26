@@ -1,4 +1,4 @@
-<! DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 	<title>About Rhiana</title>
@@ -10,14 +10,14 @@
 </head>
 <body>
 	<div class="container">
-		<div class="heading">
-			<h1><strong>About Rhiana Heath</strong></h1>
+		<div class="heading" class="fittext">
+			<h1><strong>About Me</strong></h1>
 			<object>
 			<img src="img/rhianaheath.jpg" alt="Rhiana Heath">
 			</object>
 		</div>
 
-		<div class="links">
+		<div class="links" class="fittext">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
@@ -27,7 +27,7 @@
 			</ul>
 		</div>
 		<div id="about" class="grid_12">
-			<h2 class="grid_12">About Me</h2>
+			<h2 class="grid_12" class="fittext">About Me</h2>
 			<h3>This section looks a little into my history.</h3>
 			<p class="grid_7 first">One of the earliest things I remeber doing was sitting at the Commodore 64 for hours typing in commands to change the colours of the the font and two background colours. As well as loading in my cassette tapes of lemonade stand and space invaders, which each took about 10 minutes to load!<br>As well as the Commodore we also had an Atari where we played games such as pitfall, grand prix and barn storming.</p>
 			<img src="img/commadore2.jpg" alt="Commadore 64" class="grid_4"><br>
@@ -45,6 +45,15 @@
 	      <p>&copy; 2013 Rhiana Heath Freelancer. All Rights Reserved</p>
     	</div>
 	</div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+	<script type="text/javascript" src="js/jquery.fittext.js"></script>
+
+	<script type="text/javascript">
+		$(".fittext").fitText(2);
+	</script>
+
 </body>
 
 </html>

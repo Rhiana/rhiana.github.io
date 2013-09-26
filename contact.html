@@ -1,4 +1,4 @@
-<! DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 	<title>Contact Rhiana</title>
@@ -10,14 +10,14 @@
 </head>
 <body>
 	<div class="container">
-		<div class="heading">
-			<h1><strong>Contact Rhiana Heath</strong></h1>
+		<div class="heading" class="fittext">
+			<h1><strong>Contact Me</strong></h1>
 			<object>
 			<img src="img/rhianaheath.jpg" alt="Rhiana Heath">
 			</object>
 		</div>
 
-		<div class="links">
+		<div class="links" class="fittext">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
@@ -28,9 +28,9 @@
 		</div>
 
 		<div id="contact" class="grid_12 first">
-			<h2 class="grid_12">How to contact me</h2>
+			<h2 class="grid_12" class="fittext">How to contact me</h2>
 			<p>
-				Feel free to check out my <a href="http://www.linkedin.com/profile/view?id=249553631&trk=nav_responsive_tab_profile">LinkedIn profile</a>.
+				Feel free to check out my <a href="http://www.linkedin.com/profile/view?id=249553631&amp;trk=nav_responsive_tab_profile">LinkedIn profile</a>.
 				As well as my <a href="https://github.com/Rhiana">GitHub profile</a>. I have also attached a copy of my <a href="Rhiana-Heath-CV.docx"> resume</a>.
 				You can also fill in the following form with your information and I will contact you back shortly.
 			</p> <br>
@@ -55,6 +55,15 @@
 	      <p>&copy; 2013 Rhiana Heath Freelancer. All Rights Reserved</p>
     	</div>
 	</div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+	<script type="text/javascript" src="js/jquery.fittext.js"></script>
+
+	<script type="text/javascript">
+		$(".fittext").fitText(2);
+	</script>
+
 </body>
 
 </html>

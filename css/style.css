@@ -1,3 +1,7 @@
+html {
+	height: 100%;
+}
+
 body {
 	font-family: 'Quattrocento', serif;
 	background:  -webkit-linear-gradient(#FFF500, rgba(255,255,255,0) 50%), url('../bg.jpg') no-repeat;
@@ -109,6 +113,15 @@ p {
 	margin: auto;
 	letter-spacing: 1.5;
 }
+
+#video {
+	margin: 5% 20%;
+	border: #9240D5 solid 3px;
+	padding: 5px;
+	width: 400px; 
+	height: 275px;
+}
+
 
 .copyright {
 	clear:both;
@@ -227,8 +240,7 @@ input[type="submit"]:hover {
 
 	p {
 		text-align: justify;
-		font-size: .75em;
-		padding: 1.5px;
+		padding: 5px;
 	}
 
 	td {
@@ -242,6 +254,14 @@ input[type="submit"]:hover {
 	form {
 	width: 50%;
 	min-width: 300px;
+}
+
+#video {
+	margin: 5% 5%;
+	border: #9240D5 solid 3px;
+	padding: 5px;
+	width: 400px; 
+	height: 275px;
 }
 
 .grid_1,
@@ -298,7 +318,7 @@ input[type="submit"]:hover {
 	}
 
 	h3 {
-		font-size: .75em;
+		font-size: 1em;
 	}
 
 	p {
@@ -323,7 +343,7 @@ input[type="submit"]:hover {
 
 /* Print stylesheet, currently doesn't work :( */
 
-/*@media print {
+@media print {
 	* {
 		background: transparent;
 		color: #000;
@@ -359,44 +379,4 @@ input[type="submit"]:hover {
 		font-size: 11pt;
 	}
 
-}*/
-
-/* Print stylesheet, currently doesn't work :( */
-
-/*@media print {
-	* {
-		background: transparent;
-		color: #000;
-	}
-
-	.heading,
-	.links,
-	.copyright,
-	img {
-		display: none;
-	}
-
-	a[href^="http:"]::after {
-		content: " [" attr(href)"]";
-		color: blue;
-	}
-
-	@page {
-		margin: .5cm;
-	}
-
-	@page :first {
-		margin-top: 2cm;
-	}
-
-	h2, ul {
-		page-break-after: avoid;
-	}
-
-	p, ul {
-		orphans: 3;
-		widows: 3;
-		font-size: 11pt;
-	}
-
-}*/
+}
