@@ -1,0 +1,23 @@
+.about-page {
+  .grid {
+    border-bottom: 2px dashed purple;
+    padding-bottom: 1em;
+    .icon {
+      width: 22%;
+      margin-right: 5%;
+      img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin: 1em 0;
+      }
+      span {
+        margin-left: 20%;
+      }
+    }
+    .description {
+      width: 70%;
+      padding: 1em 0;
+    }
+  }
+}

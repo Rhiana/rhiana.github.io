@@ -1,0 +1,12 @@
+.site-header {
+  .site-nav {
+    margin-top: 20px;
+  }
+}
+.banner {
+  padding: 1em;
+	&.About {
+		background-color: #ee82ee;
+    color: white;
+	}
+}
