@@ -6,6 +6,19 @@ permalink: /portfolio/
 ---
 
 <div class="portfolio-page">
+  <h3>WebSurvey</h3>
+  <h4>Work Website | Strategic Data</h4>
+  <img src="/img/websurvey.png" alt="websurvey">
+  <div>
+    <p>Work project to update our home website for <a href="http://www.websurvey.com.au/" target="_blank">WebSurvey</a>. Ensuring it is responsive and works cross platform.</p>
+    <p><a href="https://github.com/strategicdata/websurvey.com.au" target="_blank">Code on Github</a></p>
+    <p>Technology Used:</p>
+    <ul>
+      <li>Jekyll</li>
+      <li>SASS</li>
+      <li>Gulp</li>
+    </ul>
+  </div>
   <h3>MouseGuard Map</h3>
   <h4>Personal Project</h4>
   <img src="/img/mouseguard.png" alt="mouseguard">
