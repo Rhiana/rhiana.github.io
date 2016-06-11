@@ -42,6 +42,20 @@ permalink: /portfolio/
       <li>Ruby on Rails application</li>
     </ul>
   </div>
+  <h3>To Do</h3>
+  <h4>Ruby Camp</h4>
+  <img src="/img/todo.png" alt="to do app">
+  <div>
+    <p>This project started at a Rails installfest and was worked on during a Rails Camp in November 2013.</p>
+    <p>The <a href="http://rhianashomepage.herokuapp.com/todos" target="_blank">To Do Homepage</a> website is a modification of the Ruby starter project of a Blog site.</p>
+    <p><a href="https://github.com/Rhiana/homepage" target="_blank">Code on Github</a></p>
+    <p>Technology Used</p>
+    <ul>
+      <li>Ruby on Rails App</li>
+      <li>Hosted on Heroku</li>
+      <li>Styled by Bootstrap</li>
+    </ul>
+  </div>
   <h3>Hansard Hack</h3>
   <h4>GovHack | Team: Science, you monster</h4>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9g0Tt3syInI" frameborder="0" allowfullscreen></iframe>
