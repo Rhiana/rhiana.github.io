@@ -19,10 +19,10 @@ permalink: /portfolio/
       <li>Gulp</li>
     </ul>
   </div>
-  <h3>MouseGuard Map</h3>
-  <h4>Personal Project</h4>
-  <img src="/img/mouseguard.png" alt="mouseguard">
-  <div>
+  <div id="mouseguard2014">
+    <h3>MouseGuard Map</h3>
+    <h4>Personal Project</h4>
+    <img src="/img/mouseguard.png" alt="mouseguard">
     <p>Personal project to create a website to track towns and party movements for a roleplaying game called <a href="http://mouseguard.heath.cc/" tarfet="_blank">Mouseguard</a>.</p>
     <p><a href="https://github.com/Rhiana/mouse_guard" tareg="_blank">Code on Github</a></p>
     <p>Technology Used:</p>

@@ -32,7 +32,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://beresponsive.io/" target="_blank">Be Responsive Meet Up</a></h3>
-      <p>Spoke here yay! to put link to presentations page later <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
+      <p>Spoke here yay! <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
     </div>
   </div>
   <div class="grid">
@@ -42,7 +42,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.webdirections.org/code15/" target="_blank">Web Directions Code</a></h3>
-      <p>Spoke here yay! to put link to presentations page later <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
+      <p>Spoke here yay! <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
     </div>
   </div>
   <div class="grid">
@@ -52,7 +52,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.pageuppeople.com/" target="_blank">Page Up Lunch and Learn</a></h3>
-      <p>Spoke at Page Up - link to <a href="/presentations/#a11y-pageup-2015">presentation video</a> here</p>
+      <p>Spoke at Page Up -<a href="/presentations/#a11y-pageup-2015">presentation video</a></p>
     </div>
   </div>
   <div class="grid">
@@ -82,7 +82,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://decompress.com.au/" target="_blank">CSS Conference - Decompress</a></h3>
-      <p>Spoke here yay! to put link to presentations page later <a href="presentations/#a11y-decompress-2015">Accessibility talk</a></p>
+      <p>Spoke here yay! <a href="presentations/#a11y-decompress-2015">Accessibility talk</a></p>
     </div>
   </div>
   <div class="grid">
@@ -102,7 +102,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://ruby.org.au/meetups/mel.html">Ruby Or Rails Meet Up</a></h3>
-      <p>Spoke here - links to talks</p>
+      <p>Spoke here - Newbie night, lightning talk on how to get into programming</p>
     </div>
   </div>
   <div class="grid">
@@ -112,7 +112,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.sitepoint.com/making-bootstrap-accessible/" target="_blank">Sitepoint Article</a></h3>
-      <p>Wrote an article for Sitepoint link to projects</p>
+      <p>Wrote an article for Sitepoint</p>
     </div>
   </div>
   <div class="grid">
@@ -132,7 +132,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.clojurebridge.org/events/2014-08-01-melbourne-australia" target="_blank">Clojure Tutorial</a></h3>
-      <p>Weekend tutorial learning Clojure</p>
+      <p>Weekend tutorial learning Clojure <a href="https://github.com/Rhiana/clojure_kittens" target="_blank">Code on Github</a></p>
     </div>
   </div>
   <div class="grid">
@@ -182,7 +182,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railscamps.com/">Rails Camp</a></h3>
-      <p>Weekend away hacking on things in Brisbane - link to projects</p>
+      <p>Weekend away hacking on things in Brisbane - <a href="/portfolio/#mouseguard2014">Mouseguard</a></p>
     </div>
   </div>
   <div class="grid">
@@ -222,7 +222,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railsgirls.com/melbourne" target="_blank">Rails Girls</a></h3>
-      <p>Tutorials Ruby and launcing a rails app</p>
+      <p>Tutorials Ruby and launcing a rails app. <a href="https://github.com/Rhiana/railsgirls" target="_blank">Code on github</a></p>
     </div>
   </div>
   <div class="grid">
@@ -272,7 +272,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://teamtreehouse.com/" target="_blank">Treehouse</a></h3>
-      <p>Self directed learning front end programming</p>
+      <p>Self directed learning front end programming. <a href="https://github.com/Rhiana/treebook" target="_blank">Code on Github</a></p>
     </div>
   </div>
   <div class="grid">
