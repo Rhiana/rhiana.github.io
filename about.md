@@ -32,7 +32,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://beresponsive.io/" target="_blank">Be Responsive Meet Up</a></h3>
-      <p>Spoke here yay! to put link to presentations page later</p>
+      <p>Spoke here yay! to put link to presentations page later <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
     </div>
   </div>
   <div class="grid">
@@ -42,7 +42,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.webdirections.org/code15/" target="_blank">Web Directions Code</a></h3>
-      <p>Spoke here yay! to put link to presentations page later</p>
+      <p>Spoke here yay! to put link to presentations page later <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a></p>
     </div>
   </div>
   <div class="grid">
@@ -72,7 +72,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.webdirections.org/about/" target="_blank">Web Directions Workshop</a></h3>
-      <p>Won a workshop on how to present at a conference run by John Allsopp from Web Directions. Then spoke at a What do you know night. (link to slides here)</p>
+      <p>Won a workshop on how to present at a conference run by John Allsopp from Web Directions. Then spoke at a <a href="/presentations/#a11y-wdyk-2015">What do you know night</a>.</p>
     </div>
   </div>
   <div class="grid">
@@ -82,7 +82,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://decompress.com.au/" target="_blank">CSS Conference - Decompress</a></h3>
-      <p>Spoke here yay! to put link to presentations page later</p>
+      <p>Spoke here yay! to put link to presentations page later <a href="presentations/#a11y-decompress-2015">Accessibility talk</a></p>
     </div>
   </div>
   <div class="grid">
