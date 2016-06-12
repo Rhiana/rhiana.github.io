@@ -52,7 +52,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.pageuppeople.com/" target="_blank">Page Up Lunch and Learn</a></h3>
-      <p>Spoke at Page Up - link to presentation video here</p>
+      <p>Spoke at Page Up - link to <a href="/presentations/#a11y-pageup-2015">presentation video</a> here</p>
     </div>
   </div>
   <div class="grid">
@@ -202,7 +202,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://ruby.org.au/meetups/mel.html">Ruby Or Rails Meet Up</a></h3>
-      <p>Spoke here link to Accessibility talk</p>
+      <p>Spoke here link to <a href="/presentations/#a11y-roro-2014">Accessibility talk</a></p>
     </div>
   </div>
   <div class="grid">
@@ -232,7 +232,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://ruby.org.au/meetups/mel.html">Ruby Or Rails Meet Up</a></h3>
-      <p>Spoke here - links to talks</p>
+      <p>Spoke here - links to talks <a href="/presentations/#present-roro-2013">How to present</a></p>
     </div>
   </div>
   <div class="grid">
