@@ -6,10 +6,10 @@ permalink: /portfolio/
 ---
 
 <div class="portfolio-page">
-  <h3>WebSurvey</h3>
-  <h4>Work Website | Strategic Data</h4>
-  <img src="/img/websurvey.png" alt="websurvey">
   <div>
+    <h3>WebSurvey</h3>
+    <h4>Work Website | Strategic Data</h4>
+    <img src="/img/websurvey.png" alt="websurvey">
     <p>Work project to update our home website for <a href="http://www.websurvey.com.au/" target="_blank">WebSurvey</a>. Ensuring it is responsive and works cross platform.</p>
     <p><a href="https://github.com/strategicdata/websurvey.com.au" target="_blank">Code on Github</a></p>
     <p>Technology Used:</p>
@@ -31,10 +31,10 @@ permalink: /portfolio/
       <li>JS Leaflet for maps</li>
     </ul>
   </div>
-  <h3>Eventable</h3>
-  <h4>GovHack | Team: Rampsters</h4>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Vzc_vsdvwZk" frameborder="0" allowfullscreen></iframe>
-  <div>
+  <div id="govhack2014">
+    <h3>Eventable</h3>
+    <h4>GovHack | Team: Rampsters</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vzc_vsdvwZk" frameborder="0" allowfullscreen></iframe>
     <p>
       This video is about Eventable, a  team project made for Govhack July 2014.<br>
       It allows you to search for events throughout VIC, as well as how accessible they are and allowing you to add your own accessibility ratings.
@@ -55,10 +55,10 @@ permalink: /portfolio/
       <li>Ruby application with Python analytics</li>
     </ul>
   </div>
-  <h3>Coffeehouse Mentor</h3>
-  <h4>SheHacks</h4>
-  <img src="/img/mentorme.png" alt="mentorme">
-  <div>
+  <div id="shehacks2014">
+    <h3>Coffeehouse Mentor</h3>
+    <h4>SheHacks</h4>
+    <img src="/img/mentorme.png" alt="mentorme">
     <p>This project was completed in March 2014 as part of SheHacks, Australia's first all female hack-a-thon.</p>
     <p><a href="https://github.com/Rhiana/mentorme" target="_blank">Code on Github</a></p>
     <p>The theme of the project was community, <a href="http://coffee-house-mentor.herokuapp.com/" target="_blank">CoffeeHouse Mentor</a> was aet up as a "dating" site for mentee's to look for prospective mentors.</p>
@@ -67,10 +67,10 @@ permalink: /portfolio/
       <li>Ruby on Rails application</li>
     </ul>
   </div>
-  <h3>To Do</h3>
-  <h4>Ruby Camp</h4>
-  <img src="/img/todo.png" alt="to do app">
-  <div>
+  <div id="todo2013">
+    <h3>To Do</h3>
+    <h4>Ruby Camp</h4>
+    <img src="/img/todo.png" alt="to do app">
     <p>This project started at a Rails installfest and was worked on during a Rails Camp in November 2013.</p>
     <p>The <a href="http://rhianashomepage.herokuapp.com/todos" target="_blank">To Do Homepage</a> website is a modification of the Ruby starter project of a Blog site.</p>
     <p><a href="https://github.com/Rhiana/homepage" target="_blank">Code on Github</a></p>
@@ -81,10 +81,10 @@ permalink: /portfolio/
       <li>Styled by Bootstrap</li>
     </ul>
   </div>
-  <h3>Hansard Hack</h3>
-  <h4>GovHack | Team: Science, you monster</h4>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9g0Tt3syInI" frameborder="0" allowfullscreen></iframe>
-  <div>
+  <div id="govhack2013">
+    <h3>Hansard Hack</h3>
+    <h4>GovHack | Team: Science, you monster</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9g0Tt3syInI" frameborder="0" allowfullscreen></iframe>
     <p>
       This video is about <a href="http://2013.hackerspace.govhack.org/?q=groups/hansard-hack" target="_blank">Hansard Hack</a>, a team project made for Govhack July 2013.<br>
       It collates Government transcripts of Hansard data and displays them graphically per politician on the most popular words they use.

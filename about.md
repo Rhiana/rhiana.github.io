@@ -152,7 +152,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.govhack.org/" target="_blank">GovHack</a></h3>
-      <p>Weekend hackathon building things - link to projects</p>
+      <p>Weekend hackathon building things - link to projects <a href="/portfolio/#govhack2014">Eventable</a></p>
     </div>
   </div>
   <div class="grid">
@@ -192,7 +192,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.meetup.com/en-AU/Girl-Geek-Dinners-Melbourne/events/166332712/">SheHacks</a></h3>
-      <p>Went to this, built some things, link to projects page</p>
+      <p>Went to this, built some things, link to projects page <a href="/portfolio/#shehacks2014">Coffeehouse mentor</a></p>
     </div>
   </div>
   <div class="grid">
@@ -242,7 +242,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railscamps.com/">Rails Camp</a></h3>
-      <p>Weekend away hacking on things in Sydney - link to projects</p>
+      <p>Weekend away hacking on things in Sydney - link to projects <a href="/portfolio/#todo2013">To Do</a></p>
     </div>
   </div>
   <div class="grid">
@@ -282,7 +282,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.govhack.org/" target="_blank">GovHack</a></h3>
-      <p>Weekend hackathon building things - link to projects</p>
+      <p>Weekend hackathon building things - link to projects <a href="/portfolio/#govhack2013">Hansard Hack</a></p>
     </div>
   </div>
 </div>
