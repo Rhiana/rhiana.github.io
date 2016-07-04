@@ -5,6 +5,10 @@
 }
 .banner {
   padding: 1em;
+  &.Rhiana {
+    background-color: purple;
+    color: white;
+  }
 	&.About {
 		background-color: #ee82ee;
     color: white;

@@ -5,7 +5,7 @@ subtitle: Talks given at Conferences, Meetups and companies
 permalink: /presentations/
 ---
 
-<div class="presentation-page">
+<div class="presentation-page wrapper">
   <div id="a11y-code-2015">
     <h3>Pop Up Accessibility</h3>
     <h4>WebDirections Code Conference | June 2015</h4>

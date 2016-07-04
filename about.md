@@ -4,7 +4,7 @@ title: About
 subtitle: Events, conferences, camps, certificates and awards
 permalink: /about/
 ---
-<div class="about-page">
+<div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
     <img src="/img/railsgirls-sq.png" alt="rails girls">

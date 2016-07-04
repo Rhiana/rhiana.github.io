@@ -5,7 +5,7 @@ subtitle: Websites, Hack Day Projects
 permalink: /portfolio/
 ---
 
-<div class="portfolio-page">
+<div class="portfolio-page wrapper">
   <div>
     <h3>WebSurvey</h3>
     <h4>Work Website | Strategic Data</h4>

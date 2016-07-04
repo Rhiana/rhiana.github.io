@@ -1,0 +1,33 @@
+.home {
+	.about-banner {
+    background-color: #ee82ee;
+    color: white;
+    padding: 1em;
+  }
+  .portfolio-banner {
+    background-color: #3fd0f0;
+    color: white;
+    padding: 1em;
+  }
+  .presentations-banner {
+    background-color: #f0b83f;
+    color: white;
+    padding: 1em;
+  }
+  h1 a {
+    color: white;
+  }
+  .icon {
+    width: 30%;
+    margin-right: 3%;
+    img {
+      width: 150px;
+      height: 150px;        
+      border-radius: 50%;
+      margin: 1em 0;
+      &.transparent {
+        background-color: white;
+      }
+    }
+  }
+}
