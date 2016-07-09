@@ -97,7 +97,7 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
-    <img src="/img/ruby_au_red_logo.svg" alt="Ruby Au">
+    <img src="/img/ruby_au.png" alt="Ruby Au">
       <span>Oct 2014</span>
     </div>
     <div class="description">
@@ -197,7 +197,7 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
-    <img src="/img/ruby_au_red_logo.svg" alt="Ruby Au">
+    <img src="/img/ruby_au.png" alt="Ruby Au">
       <span>Mar 2014</span>
     </div>
     <div class="description">
@@ -227,7 +227,7 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
-    <img src="/img/ruby_au_red_logo.svg" alt="Ruby Au">
+    <img src="/img/ruby_au.png" alt="Ruby Au">
       <span>Nov 2013</span>
     </div>
     <div class="description">
