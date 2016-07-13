@@ -154,7 +154,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.govhack.org/" target="_blank">GovHack</a></h3>
-      <p>Weekend hackathon building things - link to projects <a href="/portfolio/#govhack2014">Eventable</a></p>
+      <p>Participated in and won awards with a weekend hackathon where we built a project called <a href="/portfolio/#govhack2014">Eventable</a>. Combining data from Vic events, City of Melbourne and adding in a crowd sourcing factor to add accessibility information to events happening.</p>
     </div>
   </div>
   <div class="grid">
@@ -164,7 +164,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/" target="_blank">Professional Certificate in Web Accessibility</a></h3>
-      <p>Did a course, distinction average results, through University of SA</p>
+      <p>Completed a course on web accessibility through the University of South Australia with a distinction average. Centered around how to audit a site for accessibility problems and how to fix them.</p>
     </div>
   </div>
   <div class="grid">
@@ -174,7 +174,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.meetup.com/en-AU/MelbCSS/" target="_blank">CSS MeetUp</a></h3>
-      <p>Spoke here on Accessibility - link to presentations</p>
+      <p>Gave an impromptu speech on colour accessibility with tips for designers and front end developers. Is still referenced by the community today.</p>
     </div>
   </div>
   <div class="grid">
@@ -184,7 +184,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railscamps.com/">Rails Camp</a></h3>
-      <p>Weekend away hacking on things in Brisbane - <a href="/portfolio/#mouseguard2014">Mouseguard</a></p>
+      <p>Spent a weekend away hacking on things, playing games and going for nature walks at Rails camp in Brisbane. I worked on my <a href="/portfolio/#mouseguard2014">Mouseguard</a> site which I built after the role playing game with maps where you can add pin points and descriptions.</p>
     </div>
   </div>
   <div class="grid">
@@ -194,7 +194,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.meetup.com/en-AU/Girl-Geek-Dinners-Melbourne/events/166332712/">SheHacks</a></h3>
-      <p>Went to this, built some things, link to projects page <a href="/portfolio/#shehacks2014">Coffeehouse mentor</a></p>
+      <p>A weekend as a hacker at the first ever women only hack-a-thon in Melbourne. Our team built <a href="/portfolio/#shehacks2014">Coffeehouse mentor</a>, a platform for prospective mentors and mentees to meet.</p>
     </div>
   </div>
   <div class="grid">
@@ -204,7 +204,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://ruby.org.au/meetups/mel.html">Ruby Or Rails Meet Up</a></h3>
-      <p>Spoke here link to <a href="/presentations/#a11y-roro-2014">Accessibility talk</a></p>
+      <p>Gave a presentation at a Ruby meetup with an introduction to Web <a href="/presentations/#a11y-roro-2014">Accessibility.</a> With examples of how I learnt from and survived my first accessibility audit.</p>
     </div>
   </div>
   <div class="grid">
@@ -214,7 +214,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://perltraining.com.au/courses/programmingperl.html">Introduction to Perl</a></h3>
-      <p>Week long Perl course through Perl Australia</p>
+      <p>Week long course through Perl Australia learning the fundamentals of the Perl programming language and others in general. Going through and extending many programming examples and helping others with theirs.</p>
     </div>
   </div>
   <div class="grid">
@@ -224,7 +224,9 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railsgirls.com/melbourne" target="_blank">Rails Girls</a></h3>
-      <p>Tutorials Ruby and launcing a rails app. <a href="https://github.com/Rhiana/railsgirls" target="_blank">Code on github</a></p>
+      <p>Weekend long tutorial through Rails girls about the fundamentals of the Ruby programming language and on how to then launch a Ruby on Rails application.</p>
+      <p><a href="https://github.com/Rhiana/railsgirls" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      </p>
     </div>
   </div>
   <div class="grid">
@@ -234,7 +236,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://ruby.org.au/meetups/mel.html">Ruby Or Rails Meet Up</a></h3>
-      <p>Spoke here - links to talks <a href="/presentations/#present-roro-2013">How to present</a></p>
+      <p>After going to a couple of tech meet ups it became apparent that even if someone knew the technology that didn't mean they knew how to present it. So in the interest of learning more I put my education degree to use and gave a talk on <a href="/presentations/#present-roro-2013">How to present a Tech Topic.</a></p>
     </div>
   </div>
   <div class="grid">
@@ -244,7 +246,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://railscamps.com/">Rails Camp</a></h3>
-      <p>Weekend away hacking on things in Sydney - link to projects <a href="/portfolio/#todo2013">To Do</a></p>
+      <p>Shortly after a Rails Installfest I attended a weekend away in Rails Camp Sydney. I adapted the tutorial material given from a blog into a single page <a href="/portfolio/#todo2013">To Do</a> application.</p>
     </div>
   </div>
   <div class="grid">
@@ -254,7 +256,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.coursera.org/learn/r-programming">Computing for Data Analysis</a></h3>
-      <p>Stats course through Coursera and Johns Hopkins University</p>
+      <p>Completed a statistics and R programming language course through Coursera and Johns Hopkins University.</p>
     </div>
   </div>
   <div class="grid">
@@ -264,7 +266,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://aws.amazon.com/about-aws/events/" target="_blank">AWS Conference</a></h3>
-      <p>Went to this, learned some things</p>
+      <p>Went to a full day conference on Amazon Web Services, learning about servers, load balancing and buckets. Later I logged on to an account and did some practice exercises setting up EC2 instances and granting permissions.</p>
     </div>
   </div>
   <div class="grid">
@@ -274,7 +276,8 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://teamtreehouse.com/" target="_blank">Treehouse</a></h3>
-      <p>Self directed learning front end programming. <a href="https://github.com/Rhiana/treebook" target="_blank">Code on Github</a></p>
+      <p>Self directed course of front end programming fundamentals through Treehouse. Going through HTML, CSS and Javascript, as well as the command line and design theory.</p>
+      <p><a href="https://github.com/Rhiana/treebook" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a></p>
     </div>
   </div>
   <div class="grid">
@@ -284,7 +287,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.govhack.org/" target="_blank">GovHack</a></h3>
-      <p>Weekend hackathon building things - link to projects <a href="/portfolio/#govhack2013">Hansard Hack</a></p>
+      <p>Attended my first weekend hack-a-thon, our team built a project called <a href="/portfolio/#govhack2013">Hansard Hack</a> which ended up winning a prize. It analysed Hansard data and showed them in neat graphics using the D3 library.</p>
     </div>
   </div>
 </div>
