@@ -46,15 +46,16 @@ permalink: /portfolio/
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Vzc_vsdvwZk" frameborder="0" allowfullscreen></iframe>
     <p>
       This video is about Eventable, a team project made for Govhack July 2014.<br>
-      It allows you to search for events throughout Victoria, as well as how accessible they are and allowing you to add your own accessibility ratings.<br>
-      This combines information from Victoria Events, the City of Melbourne accessibility information and a crowd sourcing accessibility site <a href="http://wheelmap.org/en/map" target="_blank">Wheelmap</a>.<br> 
-      The duel purpose here being to inform people attending an event if they will be able to access it, i.e. if there is a ramp, lift or accessible toilets. As well as bring this information to the front in order to promote awareness.<br>
-      The <a href="http://www.visitmelbourne.com/Events" target="_blank">Melbourne Events</a> website has since been updated with this format, making it easier to search for events which now included accessibility data.
+      It allows you to search for events throughout Victoria, as well as how accessible they are and allowing you to add your own accessibility ratings.
     </p>
-
     <p>
       <a href="https://github.com/event-able/event-able" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
     </p>
+    <p>
+      This combines information from Victoria Events, the City of Melbourne accessibility information and a crowd sourcing accessibility site <a href="http://wheelmap.org/en/map" target="_blank">Wheelmap</a>.<br> 
+      The duel purpose here being to inform people attending an event if they will be able to access it, i.e. if there is a ramp, lift or accessible toilets. As well as bring this information to the front in order to promote awareness.<br>
+      The <a href="http://www.visitmelbourne.com/Events" target="_blank">Melbourne Events</a> website has since been updated with this format, making it easier to search for events which now included accessibility data.
+    </p>    
     <p>
       <a href="https://www.govhack.org/2014-winners/" target="_blank">Awards Won</a></p>
     <ul>
@@ -73,7 +74,7 @@ permalink: /portfolio/
     <h4>SheHacks</h4>
     <img src="/img/mentorme.png" alt="mentorme">
     <p>This project was completed in March 2014 as part of SheHacks, Australia's first all female hack-a-thon.</p>
-    <p><a href="https://github.com/Rhiana/mentorme" target="_blank">Code on Github</a></p>
+    <p><span class="icon icon--github">{% include icon-github.svg %}</span><a href="https://github.com/Rhiana/mentorme" target="_blank">Code on Github</a></p>
     <p>The theme of the project was community, <a href="http://coffee-house-mentor.herokuapp.com/" target="_blank">CoffeeHouse Mentor</a> was set up as a "dating" site for mentee's to look for prospective mentors. Users could login and fill out a profile with their details including background, interests and what they were hoping to get out of this. They would then go to the page showing other people whoi had signed up and allowes you to search or filter responses.</p>
     <p>Technology used:</p>
     <ul>
@@ -87,10 +88,13 @@ permalink: /portfolio/
     <img src="/img/todo.png" alt="to do app">
     <p>This project started at a Rails installfest and was worked on during a Rails Camp in November 2013.</p>
     <p>
+      <a href="https://github.com/Rhiana/homepage" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
+    <p>
       The <a href="http://rhianashomepage.herokuapp.com/todos" target="_blank">To Do Homepage</a> website is a modification of the Ruby starter project of a Blog site. It takes the mantra of "every site is a blog" as I modify the blog entries to be to do items with the new and remove functionality being converted into a single page app.<br>
       I added a litte bootstrap styling and included alerts when something changed. After the camp I added in a header and tested out a few calander plugins.
     </p>
-    <p><a href="https://github.com/Rhiana/homepage" target="_blank">Code on Github</a></p>
+    
     <p>Technology Used</p>
     <ul>
       <li>Ruby on Rails App</li>
@@ -103,13 +107,16 @@ permalink: /portfolio/
     <h4>GovHack | Team: Science, you monster</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/9g0Tt3syInI" frameborder="0" allowfullscreen></iframe>
     <p>
-      This video is about <a href="http://2013.hackerspace.govhack.org/?q=groups/hansard-hack" target="_blank">Hansard Hack</a>, a team project made for Govhack July 2013.<br>
+      This video is about <a href="http://2013.hackerspace.govhack.org/?q=groups/hansard-hack" target="_blank">Hansard Hack</a>, a team project made for Govhack July 2013.
+    </p>
+    <p>
+      <a href="https://github.com/DanielHeath/hansard-hack" target="_black"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
+    <p>
       It collates Government transcripts of Hansard data and displays them graphically per politician on the most popular words they use (removing small words like um and or but).<br>
       This uses the D3 JavaScript library with added parameters measuring the intent of the word, being positive, negative or neutral and assigning size and colour value to visually show what a politician is about. 
     </p>
-    <p>
-      <a href="https://github.com/DanielHeath/hansard-hack" target="_black">Code on Github</a>
-    </p>
+    
     <p><a href="http://archive.govhack.org/2013-winners/" target="_blank">Awards won</a></p>
     <ul>
       <li>National Prize: Data Journalism, Best government analysis</li>
