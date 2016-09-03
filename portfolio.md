@@ -6,6 +6,28 @@ permalink: /portfolio/
 ---
 
 <div class="portfolio-page wrapper">
+<div id="govhack2016">
+    <h3>Going Out Today?</h3>
+    <h4>GovHack | Team: Radwitches</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5lxYydIwRK0" frameborder="0" allowfullscreen></iframe>
+    <p>
+      This video is about <a href="http://goingouttoday.com/" tareget="_blank">Going Out Today?</a>, a team project made for Govhack July 2016.<br>
+      It allows you to search for parks in Victoria as well as the type and number of public restrooms avaliable.<br>
+      Our goal was to include this information on a map and add additional ammenities information such as drinking fountains, walking tracks and dog parks. With the option for people to add in their own features and ratings.<br>
+      As well as up to date weather information from the BOM with UV ratings and recommendations on what to wear to stay confortable and sun smart. Everything you need really when planning a trip out.
+    </p>
+    <p>
+      <a href="https://github.com/radwitches/going-out" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
+    <p>
+      
+    </p>    
+    <p>Technology used:</p>
+    <ul>
+      <li>Ruby on Rails application</li>
+      <li>React JS</li> 
+    </ul>
+  </div>
   <div>
     <h3>WebSurvey</h3>
     <h4>Work Website | Strategic Data</h4>
@@ -63,7 +85,7 @@ permalink: /portfolio/
       <li>Best City of Melbourne Accessibility Data (First Prize)</li>
       <li>Best Overall Social Inclusion Hack (Highly Commended)</li>
     </ul>
-    <p>Techonology used:</p>
+    <p>Technology used:</p>
     <ul>
       <li>Wheelmap (exisiting accessibility code base and data set)</li>
       <li>Ruby application with Python analytics</li>

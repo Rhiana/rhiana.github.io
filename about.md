@@ -7,6 +7,19 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/govhack.png" alt="GovHack">
+      <span>Jul 2016</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://www.govhack.org/" target="_blank">GovHack</a></h3>
+      <p>Attended a weekend hack-a-thon, our team built a project called <a href="/portfolio/#govhack2016">Going Out Today?</a>. It gathered data on local parks, the odea was to eventually get them displayed on a map with weather and ammenities.</p>
+      <p>
+        <a href="https://github.com/radwitches/going-out" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      </p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/a11y-bytes.png" alt="a11y bytes">
       <span>July 2016</span>
     </div>
