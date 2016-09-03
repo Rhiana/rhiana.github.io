@@ -12,7 +12,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://a11ybytes.org/session/looking-into-the-jaws-of-accessibility/" target="_blank">A11y Camp</a></h3>
-      <p>Gave a presentation on <a href="/presentations/#a11y-wdyk-2015">Looking into the JAWS of accessibility</a> focussing on screen reader compatability and tips.</p>
+      <p>Gave a presentation on <a href="/presentations/#a11y-jaws">Looking into the JAWS of accessibility</a> focussing on screen reader compatability and tips.</p>
     </div>
   </div>
   <div class="grid">
@@ -42,7 +42,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://beresponsive.io/" target="_blank">Be Responsive Meet Up</a></h3>
-      <p>Gave a presentation on <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a>. A similar but slightly updated version of my talk at Code conference.</p>
+      <p>Gave a presentation on <a href="/presentations/#a11y-popup">Pop Up accessibility</a>. A similar but slightly updated version of my talk at Code conference.</p>
     </div>
   </div>
   <div class="grid">
@@ -52,7 +52,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.webdirections.org/code15/" target="_blank">Web Directions Code</a></h3>
-      <p>Was selected to speak at Web Directions code conference, my talk was <a href="/presentations/#a11y-code-2015">Pop Up accessibility</a>. A practical demonstration on how to make a web component accessible for people with disabilities, focussing on screen readers.</p>
+      <p>Was selected to speak at Web Directions code conference, my talk was <a href="/presentations/#a11y-popup">Pop Up accessibility</a>. A practical demonstration on how to make a web component accessible for people with disabilities, focussing on screen readers.</p>
     </div>
   </div>
   <div class="grid">
@@ -62,7 +62,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.pageuppeople.com/" target="_blank">Page Up Lunch and Learn</a></h3>
-      <p>Lead an <a href="/presentations/#a11y-pageup-2015">hour long tutorial with Q&amp;A on accessibility</a>. Page Up were looking to improve their internal systems for accessibility.</p>
+      <p>Lead an <a href="/presentations/#a11y-alt">hour long tutorial with Q&amp;A on accessibility</a>. Page Up were looking to improve their internal systems for accessibility.</p>
     </div>
   </div>
   <div class="grid">
@@ -82,7 +82,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.webdirections.org/about/" target="_blank">Web Directions Workshop</a></h3>
-      <p>I won a workshop on how to present at a conference run by John Allsopp from Web Directions. Including specifics on how to display your information and present effectively. I was then asked to speak at a <a href="/presentations/#a11y-wdyk-2015">What do you know night</a>, then later at a conference.</p>
+      <p>I won a workshop on how to present at a conference run by John Allsopp from Web Directions. Including specifics on how to display your information and present effectively. I was then asked to speak at a <a href="/presentations/#a11y-jaws">What do you know night</a>, then later at a conference.</p>
     </div>
   </div>
   <div class="grid">
@@ -92,7 +92,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://decompress.com.au/" target="_blank">CSS Conference - Decompress</a></h3>
-      <p>I was asked to speak as part of Decompress/CSS conference on an <a href="/presentations/#a11y-decompress-2015">introduction to accessibility</a> with a focus on front end, design and UI.</p>
+      <p>I was asked to speak as part of Decompress/CSS conference on an <a href="/presentations/#a11y-alt">introduction to accessibility</a> with a focus on front end, design and UI.</p>
     </div>
   </div>
   <div class="grid">
@@ -143,7 +143,8 @@ permalink: /about/
     <div class="description">
       <h3><a href="http://www.clojurebridge.org/events/2014-08-01-melbourne-australia" target="_blank">Clojure Tutorial</a></h3>
       <p>Completed a weekend tutorial learning Clojure, a functional programming language.</p> 
-      <p><a href="https://github.com/Rhiana/clojure_kittens" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      <p>
+        <a href="https://github.com/Rhiana/clojure_kittens" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
       </p>
     </div>
   </div>
@@ -184,7 +185,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.meetup.com/en-AU/MelbCSS/" target="_blank">CSS MeetUp</a></h3>
-      <p>Gave an impromptu speech on colour accessibility with tips for designers and front end developers. Is still referenced by the community today.</p>
+      <p>Gave an <a href="/presentations/#a11y-css">impromptu speech on colour accessibility</a> with tips for designers and front end developers. Is still referenced by the community today.</p>
     </div>
   </div>
   <div class="grid">
