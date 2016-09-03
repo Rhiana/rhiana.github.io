@@ -7,6 +7,16 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/a11y-bytes.png" alt="a11y bytes">
+      <span>July 2016</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://a11ybytes.org/session/looking-into-the-jaws-of-accessibility/" target="_blank">A11y Camp</a></h3>
+      <p>Gave a presentation on <a href="/presentations/#a11y-wdyk-2015">Looking into the JAWS of accessibility</a> focussing on screen reader compatability and tips.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/railsgirls-sq.png" alt="rails girls">
       <span>May 2016</span>
     </div>

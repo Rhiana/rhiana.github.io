@@ -6,11 +6,19 @@ permalink: /presentations/
 ---
 
 <div class="presentation-page wrapper">
+  <div id="a11y-wdyk-2015">
+    <h3>Looking into the JAWS of accessibility</h3>
+    <h4>A11y Camp | July 2016</h4>
+    <h4>WDYK Meet up | April 2015</h4>
+    <iframe src="//slides.com/rhianaheath/looking-into-the-jaws-of-accessibility/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <p>Speaking at What do You know meetup and accessibility camp about screen readers</p>
+    <p><a href="http://slides.com/rhianaheath/looking-into-the-jaws-of-accessibility#/" target="_blank">Slides on slides</a></p>
+  </div>
   <div id="a11y-code-2015">
     <h3>Pop Up Accessibility</h3>
     <h4>WebDirections Code Conference | June 2015</h4>
     <h4>Be Responsive Meet Up | November 2015</h4>
-    <iframe src="//slides.com/rhianaheath/pop-up-accessibility/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7kPa1G_cybY" frameborder="0" allowfullscreen></iframe>
     <p>Speaking at Code Conference about making modals accessibile for people with disabiilites</p>
     <p><a href="http://slides.com/rhianaheath/pop-up-accessibility#/" target="_blank">Slides on slideshare</a></p>
     <p><a href="https://github.com/Rhiana/popup-accessibility" target="_blank">Code on Github</a></p>
@@ -20,15 +28,8 @@ permalink: /presentations/
     <h4>PageUp Lunch and Learn | May 2015</h4>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/glZB2DcmWAY" frameborder="0" allowfullscreen></iframe>
-    <p>Speaking at Page Up lunch and learn giving a indepth introduction about accessibility with Q&A session</p>
+    <p>Speaking at Page Up lunch and learn giving a in depth introduction about accessibility with Q&A session</p>
     <p><a href="http://www.slideshare.net/RhianaHeath/accessibility-abridged-33921021" target="_blank">Slides on slideshare</a></p>
-  </div>
-  <div id="a11y-wdyk-2015">
-    <h3>Looking into the JAWS of accessibility</h3>
-    <h4>WDYK Meet up | April 2015</h4>
-    <iframe src="//slides.com/rhianaheath/looking-into-the-jaws-of-accessibility/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <p>Speaking at What do You know meetup about screen readers</p>
-    <p><a href="http://slides.com/rhianaheath/looking-into-the-jaws-of-accessibility#/" target="_blank">Slides on slides</a></p>
   </div>
   <div id="a11y-decompress-2015">
     <h3>Accessibility, more than just alt tags</h3>
