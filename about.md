@@ -7,6 +7,29 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/linux_conf.svg" alt="linux conf">
+      <span>Jan 2017</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://linux.conf.au/schedule/presentation/124/" target="_blank">Linux Conf</a></h3>
+      <p>Gave two presentations on <a href="/presentations/#mice-maps">Mice and Maps</a> as part of Linux mini conferences in Hobart. These focussed on how I built my <a href="/portfolio/#mouseguard2014">Mouse Guard map app</a> using open source software.</p>
+      <p>
+        <a href="https://github.com/Rhiana/mouse_guard" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      </p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/cssconfau.png" alt="CSS conference">
+      <span>Nov 2016</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://2016.cssconf.com.au/" target="_blank">CSS and JS Conference</a></h3>
+      <p>Attended a two day conference learning about the latest in CSS and JS technology and best practices. Including accessibility, virtual reality, mobile optimisation and security.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/govhack.png" alt="GovHack">
       <span>Jul 2016</span>
     </div>
@@ -210,6 +233,9 @@ permalink: /about/
       <h3><a href="http://railscamps.com/">Rails Camp</a></h3>
       <p>Spent a weekend away hacking on things, playing games and going for nature walks at Rails camp in Brisbane. I worked on my <a href="/portfolio/#mouseguard2014">Mouseguard</a> site which I built after the role playing game with maps where you can add pin points and descriptions.</p>
     </div>
+    <p>
+      <a href="https://github.com/Rhiana/mouse_guard" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
   </div>
   <div class="grid">
     <div class="icon">
