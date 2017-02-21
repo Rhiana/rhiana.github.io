@@ -1,6 +1,6 @@
 .about-page {
   .grid {
-    border-bottom: 2px dashed purple;
+    border-bottom: 2px dashed #923fe5;
     padding-bottom: 1em;
     .icon {
       width: 22%;
@@ -13,6 +13,7 @@
       }
       span {
         margin-left: 20%;
+        color: #923fe5;
         @include media-query($on-palm) {
           display: inline-block;
           text-align: center;
@@ -32,28 +33,48 @@
       @include media-query($on-palm) {
         width: 100%;
       }
+      h3,
+      h3 a {
+        color: #923fe5;
+      }
     }
   }
 }
 
 .portfolio-page {
   div {
-    border-bottom: 2px dashed blue;
-    padding-bottom: 1em;
+    border-bottom: 2px dashed #3f78f0;
+    padding: 1em 0;
   }
   iframe {
     @include media-query($on-palm) {
       width: 100%;
     } 
   }
+  h3 {
+    color: #3f78f0;
+  }
+  h4 {
+    color: #10d294;
+  }
+  img, iframe {
+    margin: 1em 0;
+  }
 }
 
 .presentation-page {
   div {
-    border-bottom: 2px dashed orange;
-    padding-bottom: 1em;
+    border-bottom: 2px dashed #eaa412;
+    padding: 1em 0;
+  }
+  h3 {
+    color: #eaa412;
+  }
+  h4 {
+    color: #10d294;
   }
   iframe {
+    margin: 1em 0;
     @include media-query($on-palm) {
       width: 100%;
     } 
