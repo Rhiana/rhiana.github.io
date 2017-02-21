@@ -13,11 +13,25 @@
       }
       span {
         margin-left: 20%;
+        @include media-query($on-palm) {
+          display: inline-block;
+          text-align: center;
+          width: 100%;
+          margin-left: 0;
+        }
+      }
+      @include media-query($on-palm) {
+        width: 100%;
+        margin-right: 0;
+        text-align: center;
       }
     }
     .description {
       width: 70%;
       padding: 1em 0;
+      @include media-query($on-palm) {
+        width: 100%;
+      }
     }
   }
 }
@@ -27,11 +41,21 @@
     border-bottom: 2px dashed blue;
     padding-bottom: 1em;
   }
+  iframe {
+    @include media-query($on-palm) {
+      width: 100%;
+    } 
+  }
 }
 
 .presentation-page {
   div {
     border-bottom: 2px dashed orange;
     padding-bottom: 1em;
+  }
+  iframe {
+    @include media-query($on-palm) {
+      width: 100%;
+    } 
   }
 }
