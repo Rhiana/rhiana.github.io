@@ -7,6 +7,16 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/rubyconf.jpg" alt="ruby conf">
+      <span>Feb 2017</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://www.rubyconf.org.au/2017" target="_blank">Ruby Conf</a></h3>
+      <p>Attended a two day conference on Ruby learning about the future of Ruby. This included some introduction on how you can incorporate functional programming into a Ruby proect and some alternative platforms to Rails.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/linux_conf.svg" alt="linux conf">
       <span>Jan 2017</span>
     </div>
