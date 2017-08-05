@@ -311,11 +311,21 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
+    <img src="/img/installfest_logo.png" alt="reinteractive">
+      <span>Oct 2013</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://railsinstallfest.org/" target="_blank">Rails installfest</a></h3>
+      <p>Completed a Rails installfest hosted by reinteractive where I installed Ruby and Rails and made a blog app like through heroku.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/johns-hopkins-university-thumb.jpg" alt="Johns Hopkins University">
       <span>Oct 2013</span>
     </div>
     <div class="description">
-      <h3><a href="https://www.coursera.org/learn/r-programming">Computing for Data Analysis</a></h3>
+      <h3><a href="https://www.coursera.org/learn/r-programming" target="_blank">Computing for Data Analysis</a></h3>
       <p>Completed a statistics and R programming language course through Coursera and Johns Hopkins University.</p>
     </div>
   </div>
