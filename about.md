@@ -40,6 +40,16 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
+    <img src="/img/rails-for-zombies.jpg" alt="Rails for Zombies">
+      <span>Oct 2016</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://railsforzombies.org/" target="_blank">Rails for Zombies</a></h3>
+      <p>Completed a Rails tutorial series focusing on the Modal View Controller method and Rails databases.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/govhack.png" alt="GovHack">
       <span>Jul 2016</span>
     </div>
