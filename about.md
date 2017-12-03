@@ -7,6 +7,19 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/reinteractive-webinars-logo.jpg" alt="reinteractive webinars">
+      <span>Nov 2017</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://reinteractive.com/community/webinars" target="_blank">Reinteractive Webinars</a></h3>
+      <p>Hosted a webinar through Reinteractive on <a href="/presentations/#five-ws-a11y">The 5 W's of Accessibility</a> giving some guidelines on how to include accessibility in a web development project then going through a worked example.</p>
+      <p>
+        <a href="https://github.com/Rhiana/a11y_demo" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      </p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/rubyconf.jpg" alt="ruby conf">
       <span>Feb 2017</span>
     </div>

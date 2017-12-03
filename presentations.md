@@ -6,6 +6,18 @@ permalink: /presentations/
 ---
 
 <div class="presentation-page wrapper">
+  <div id="five-ws-a11y">
+    <h3>The 5 W's of Accessibility</h3>
+    <h4>Reinteractive Webinar  | November 2017</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dDULIHa2cVk" frameborder="0" allowfullscreen></iframe>
+    <p>Hosted a webinar going through the What, Why, Who, When and How's of accessibility in terms of a web development project. I then went through my top tools and tips for front end in particular before going through a worked example where I improved a demo blog site with poor accessibility features.</p>
+    <p>
+    <a href="http://slides.com/rhianaheath/deck-5" target="_blank">Slides on slides.com</a>
+    </p>
+    <p>
+      <a href="https://github.com/Rhiana/a11y_demo" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
+  </div>
   <div id="mice-maps">
     <h3>Mice and Maps</h3>
     <h4>Linux Conf  | January 2017</h4>
