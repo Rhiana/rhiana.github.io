@@ -20,6 +20,16 @@ permalink: /about/
   </div>
   <div class="grid">
     <div class="icon">
+    <img src="/img/reinteractive-logo.jpg" alt="reinteractive">
+      <span>Sep 2017</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://reinteractive.com/posts/334-front-end-naming-conventions" target="_blank">Reinteractive Blog</a></h3>
+      <p>Hosted a toolbox talk through Reinteractive (which turned into a blog post) on <a href="/publications/#reinteractive-naming-2017">Front End naming conventions</a> going through the ITCSS and BEM naming conventions we use and why.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/rubyconf.jpg" alt="ruby conf">
       <span>Feb 2017</span>
     </div>
@@ -191,7 +201,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="https://www.sitepoint.com/making-bootstrap-accessible/" target="_blank">Sitepoint Article</a></h3>
-      <p>I had an article published by SitePoint, a platform for professional web developers to share their knowledge. The article was on colour accessiblity and how common Bootstrap falls short.</p>
+      <p>I had an article published by SitePoint, a platform for professional web developers to share their knowledge. The article was on <a href="/publications/#site-point-2014">colour accessiblity</a> and how common Bootstrap falls short.</p>
     </div>
   </div>
   <div class="grid">
