@@ -6,6 +6,18 @@ permalink: /presentations/
 ---
 
 <div class="presentation-page wrapper">
+  <div id="presenting-svg">
+    <h3>Presenting SVG graphs</h3>
+    <h4>Ruby on Rails Meetup  | March 2018</h4>
+    <iframe src="//slides.com/rhianaheath/presenting-svg-graphs/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <p>Gave a talk going through the process where I made a line graph in a website. Including the different options, why I picked Ruby generating an SVG. Examples of SVG elements and how to target them in CSS. As well as then how you can generate them with Ruby code, first embedded then moved into a presentor class.</p>
+    <p>
+    <a href="http://slides.com/rhianaheath/presenting-svg-graphs" target="_blank">Slides on slides.com</a>
+    </p>
+    <p>
+      <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
+    </p>
+  </div>
   <div id="five-ws-a11y">
     <h3>The 5 W's of Accessibility</h3>
     <h4>Reinteractive Webinar  | November 2017</h4>
@@ -13,6 +25,9 @@ permalink: /presentations/
     <p>Hosted a webinar going through the What, Why, Who, When and How's of accessibility in terms of a web development project. I then went through my top tools and tips for front end in particular before going through a worked example where I improved a demo blog site with poor accessibility features.</p>
     <p>
     <a href="http://slides.com/rhianaheath/deck-5" target="_blank">Slides on slides.com</a>
+    </p>
+    <p>
+      <a href="https://reinteractive.com/posts/346-the-five-w-s-of-accessibility" target="_blank">Blog post on reinteractive</a>
     </p>
     <p>
       <a href="https://github.com/Rhiana/a11y_demo" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>

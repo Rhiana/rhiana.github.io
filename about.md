@@ -7,6 +7,59 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/mascot.svg" alt="Ruby logo">
+      <span>Mar 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://ruby.org.au/meetups/mel.html" target="_blank">Ruby on Rails Meetup</a></h3>
+      <p>Gave a talk on how I <a href="/presentations/#presenting-svg">programmed a line graph using a Ruby presentor to draw an SVG</a>.</p>
+      <p>
+      <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
+    </p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/cssconfau.png" alt="CSS logo">
+      <span>Mar 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://2018.cssconf.com.au/" target="_blank">CSS Conference 2018</a></h3>
+      <p>Attended a conference on CSS, including leaning about CSS grid, font optimisation and animations.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/mascot.svg" alt="Ruby logo">
+      <span>Mar 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://www.rubyconf.org.au/2018" target="_blank">Ruby Conference 2018</a></h3>
+      <p>Attended a two day Ruby conference learning about machine learning, techincial writing and how weird timezones are.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/sitepoint.jpg" alt="Sitepoint">
+      <span>Feb 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://www.sitepoint.com/making-bootstrap-accessible/" target="_blank">Sitepoint Article</a></h3>
+      <p>I updated my article published by SitePoint on <a href="/publications/#site-point-2014">colour accessiblity</a> for the new version of Bootstrap.</p>
+    </div>
+  </div>
+    <div class="grid">
+    <div class="icon">
+    <img src="/img/reinteractive-logo.jpg" alt="reinteractive">
+      <span>Jan 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://reinteractive.com/posts/348-should-i-use-a-front-end-framework" target="_blank">reinteractive Article</a></h3>
+      <p>I wrote an article published by reinteractive on <a href="/publications/#reinteractive-framework-2018">front end frameworks</a> and what to consider when starting a new project.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="icon">
     <img src="/img/reinteractive-webinars-logo.jpg" alt="reinteractive webinars">
       <span>Nov 2017</span>
     </div>
@@ -16,6 +69,9 @@ permalink: /about/
       <p>
         <a href="https://github.com/Rhiana/a11y_demo" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
       </p>
+      <p>
+      <a href="https://reinteractive.com/posts/346-the-five-w-s-of-accessibility" target="_blank">Blog post on reinteractive</a>
+    </p>
     </div>
   </div>
   <div class="grid">
