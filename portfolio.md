@@ -6,12 +6,43 @@ permalink: /portfolio/
 ---
 
 <div class="portfolio-page wrapper">
+  <div id="svg-graphs2018">
+    <h3>SVG Graphs</h3>
+    <h4>Personal Project</h4>
+    <a href="https://presenting-graphs.herokuapp.com/" target="_blank">
+      <img src="/img/graph-website.png" alt="preview image of the website">
+    </a>
+    <p>
+      This project is about <a href="https://presenting-graphs.herokuapp.com/" target="_blank">SVG graphs</a>, a personal project made for professional development June 2018.<br>
+      Previously I had made graphs like this with a javascript library generating the SVG code, however this is impratical on a project where the data constantly changes and the designs are very specific.<br>
+      Therefore I started making graphs by writing the svg's themselves, linking them up to the existing back end code, just like I would with other front end code.<br>
+      This library is where I keep my examples of this for reference.
+    </p>
+    <p>
+      <a href="https://github.com/Rhiana/presenting_graphs" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+    </p>
+    <p>
+      <a href="/presentations/#presenting-svg">Presentation at RoRo video</a>
+    </p>
+    <p>
+      <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
+    </p>
+    <p>
+
+    </p>
+    <p>Technology used:</p>
+    <ul>
+      <li>Ruby on Rails application</li>
+      <li>SVG's</li>
+    </ul>
+  </div>
+
   <div id="govhack2016">
     <h3>Going Out Today?</h3>
     <h4>GovHack | Team: Radwitches</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5lxYydIwRK0" frameborder="0" allowfullscreen></iframe>
     <p>
-      This video is about <a href="http://goingouttoday.com/" tareget="_blank">Going Out Today?</a>, a team project made for Govhack July 2016.<br>
+      This video is about <a href="http://goingouttoday.com/" target="_blank">Going Out Today?</a>, a team project made for Govhack July 2016.<br>
       It allows you to search for parks in Victoria as well as the type and number of public restrooms avaliable.<br>
       Our goal was to include this information on a map and add additional ammenities information such as drinking fountains, walking tracks and dog parks. With the option for people to add in their own features and ratings.<br>
       As well as up to date weather information from the BOM with UV ratings and recommendations on what to wear to stay confortable and sun smart. Everything you need really when planning a trip out.
@@ -20,12 +51,12 @@ permalink: /portfolio/
       <a href="https://github.com/radwitches/going-out" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
     </p>
     <p>
-      
-    </p>    
+
+    </p>
     <p>Technology used:</p>
     <ul>
       <li>Ruby on Rails application</li>
-      <li>React JS</li> 
+      <li>React JS</li>
     </ul>
   </div>
   <div>
@@ -74,10 +105,10 @@ permalink: /portfolio/
       <a href="https://github.com/event-able/event-able" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
     </p>
     <p>
-      This combines information from Victoria Events, the City of Melbourne accessibility information and a crowd sourcing accessibility site <a href="http://wheelmap.org/en/map" target="_blank">Wheelmap</a>.<br> 
+      This combines information from Victoria Events, the City of Melbourne accessibility information and a crowd sourcing accessibility site <a href="http://wheelmap.org/en/map" target="_blank">Wheelmap</a>.<br>
       The duel purpose here being to inform people attending an event if they will be able to access it, i.e. if there is a ramp, lift or accessible toilets. As well as bring this information to the front in order to promote awareness.<br>
       The <a href="http://www.visitmelbourne.com/Events" target="_blank">Melbourne Events</a> website has since been updated with this format, making it easier to search for events which now included accessibility data.
-    </p>    
+    </p>
     <p>
       <a href="https://www.govhack.org/2014-winners/" target="_blank">Awards Won</a></p>
     <ul>
@@ -116,7 +147,7 @@ permalink: /portfolio/
       The <a href="http://rhianashomepage.herokuapp.com/todos" target="_blank">To Do Homepage</a> website is a modification of the Ruby starter project of a Blog site. It takes the mantra of "every site is a blog" as I modify the blog entries to be to do items with the new and remove functionality being converted into a single page app.<br>
       I added a litte bootstrap styling and included alerts when something changed. After the camp I added in a header and tested out a few calander plugins.
     </p>
-    
+
     <p>Technology Used</p>
     <ul>
       <li>Ruby on Rails App</li>
@@ -136,9 +167,9 @@ permalink: /portfolio/
     </p>
     <p>
       It collates Government transcripts of Hansard data and displays them graphically per politician on the most popular words they use (removing small words like um and or but).<br>
-      This uses the D3 JavaScript library with added parameters measuring the intent of the word, being positive, negative or neutral and assigning size and colour value to visually show what a politician is about. 
+      This uses the D3 JavaScript library with added parameters measuring the intent of the word, being positive, negative or neutral and assigning size and colour value to visually show what a politician is about.
     </p>
-    
+
     <p><a href="http://archive.govhack.org/2013-winners/" target="_blank">Awards won</a></p>
     <ul>
       <li>National Prize: Data Journalism, Best government analysis</li>

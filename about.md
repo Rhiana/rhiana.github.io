@@ -7,6 +7,20 @@ permalink: /about/
 <div class="about-page wrapper">
   <div class="grid">
     <div class="icon">
+    <img src="/img/graphs.png" alt="Circle graph">
+      <span>Jun 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://presenting-graphs.herokuapp.com/" target="_blank">SVG graph library</a></h3>
+      <p>Started a library of <a href="/portfolio/#svg-graphs2018"> SVG graphs drawn with Ruby code</a>.</p>
+      <p>
+        <a href="https://github.com/Rhiana/presenting_graphs" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="icon">
     <img src="/img/mascot.svg" alt="Ruby logo">
       <span>Mar 2018</span>
     </div>
@@ -14,8 +28,8 @@ permalink: /about/
       <h3><a href="http://ruby.org.au/meetups/mel.html" target="_blank">Ruby on Rails Meetup</a></h3>
       <p>Gave a talk on how I <a href="/presentations/#presenting-svg">programmed a line graph using a Ruby presentor to draw an SVG</a>.</p>
       <p>
-      <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
-    </p>
+        <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
+      </p>
     </div>
   </div>
   <div class="grid">
@@ -277,7 +291,7 @@ permalink: /about/
     </div>
     <div class="description">
       <h3><a href="http://www.clojurebridge.org/events/2014-08-01-melbourne-australia" target="_blank">Clojure Tutorial</a></h3>
-      <p>Completed a weekend tutorial learning Clojure, a functional programming language.</p> 
+      <p>Completed a weekend tutorial learning Clojure, a functional programming language.</p>
       <p>
         <a href="https://github.com/Rhiana/clojure_kittens" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
       </p>

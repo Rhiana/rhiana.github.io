@@ -9,7 +9,7 @@ permalink: /presentations/
   <div id="presenting-svg">
     <h3>Presenting SVG graphs</h3>
     <h4>Ruby on Rails Meetup  | March 2018</h4>
-    <iframe src="//slides.com/rhianaheath/presenting-svg-graphs/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dDrdH_0BKLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <p>Gave a talk going through the process where I made a line graph in a website. Including the different options, why I picked Ruby generating an SVG. Examples of SVG elements and how to target them in CSS. As well as then how you can generate them with Ruby code, first embedded then moved into a presentor class.</p>
     <p>
     <a href="http://slides.com/rhianaheath/presenting-svg-graphs" target="_blank">Slides on slides.com</a>
@@ -89,4 +89,3 @@ permalink: /presentations/
     <p><a href="http://www.slideshare.net/RhianaHeath/presentationsat-rails-nov13-by-rhiana" target="_blank">Slides on slideshare.net</a></p>
   </div>
  </div>
-
