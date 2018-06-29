@@ -5,6 +5,29 @@ subtitle: Events, conferences, camps, certificates and awards
 permalink: /about/
 ---
 <div class="about-page wrapper">
+
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/reinteractive-logo.jpg" alt="reinteractive">
+      <span>Jun 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://reinteractive.com/" target="_blank">reinteractive Toolbox Talk</a></h3>
+      <p>Hosted a toolbox through reinteractive on <a href="/presentations/#diy-grids">DIY Grids</a> giving some guidelines on how to write your own grid layout rather then relying on a framework using CSS Grid and Flexbox.</p>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="icon">
+    <img src="/img/web_directions_logo.png" alt="What do you know event">
+      <span>Jun 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="http://webdirections.org/wdyk/" target="_blank">WDYK</a></h3>
+      <p>Compared different graphing libraries including D3 and C3 then showing my own <a href="/portfolio/#svg-graphs2018">raw SVG graphs examples</a>.</p>
+    </div>
+  </div>
+
   <div class="grid">
     <div class="icon">
     <img src="/img/graphs.png" alt="Circle graph">
@@ -62,7 +85,7 @@ permalink: /about/
       <p>I updated my article published by SitePoint on <a href="/publications/#site-point-2014">colour accessiblity</a> for the new version of Bootstrap.</p>
     </div>
   </div>
-    <div class="grid">
+  <div class="grid">
     <div class="icon">
     <img src="/img/reinteractive-logo.jpg" alt="reinteractive">
       <span>Jan 2018</span>

@@ -6,8 +6,19 @@ permalink: /presentations/
 ---
 
 <div class="presentation-page wrapper">
+  <div id="diy-grids">
+    <h3>DIY Grids</h3>
+    <h4>reinteractive Toolbox Talk  | June 2018</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uhV9QfYKOD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <p>Gave a talk going through how I have been building my own grid layout the last few months using CSS Grid. As well as Flexbox and Columns. Rather than implementing a whole framework just for the grid. It reduces the amount of code needed and gets the layout a lot more pixel perfect.</p>
+    <p>
+      <a href="https://slides.com/rhianaheath/diy-grids" target="_blank">Slides on slides.com</a>
+    </p>
+  </div>
+
   <div id="presenting-svg">
     <h3>Presenting SVG graphs</h3>
+    <h4>Webdirections WDYK  | June 2018</h4>
     <h4>Ruby on Rails Meetup  | March 2018</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dDrdH_0BKLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <p>Gave a talk going through the process where I made a line graph in a website. Including the different options, why I picked Ruby generating an SVG. Examples of SVG elements and how to target them in CSS. As well as then how you can generate them with Ruby code, first embedded then moved into a presentor class.</p>
@@ -16,6 +27,9 @@ permalink: /presentations/
     </p>
     <p>
       <a href="https://reinteractive.com/posts/349-presenting-svg-graphs" target="_blank">Blog post on reinteractive</a>
+    </p>
+    <p>
+      <a href="https://github.com/Rhiana/presenting_graphs" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
     </p>
   </div>
   <div id="five-ws-a11y">
