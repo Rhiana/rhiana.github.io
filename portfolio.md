@@ -9,11 +9,11 @@ permalink: /portfolio/
   <div id="svg-graphs2018">
     <h3>SVG Graphs</h3>
     <h4>Personal Project</h4>
-    <a href="https://presenting-graphs.herokuapp.com/" target="_blank">
+    <a href="https://svg-graphs-on-rails.herokuapp.com/" target="_blank">
       <img src="/img/graph-website.png" alt="preview image of the website">
     </a>
     <p>
-      This project is about <a href="https://presenting-graphs.herokuapp.com/" target="_blank">SVG graphs</a>, a personal project made for professional development June 2018.<br>
+      This project is about <a href="https://svg-graphs-on-rails.herokuapp.com/" target="_blank">SVG graphs</a>, a personal project made for professional development June 2018.<br>
       Previously I had made graphs like this with a javascript library generating the SVG code, however this is impratical on a project where the data constantly changes and the designs are very specific.<br>
       Therefore I started making graphs by writing the svg's themselves, linking them up to the existing back end code, just like I would with other front end code.<br>
       This library is where I keep my examples of this for reference.

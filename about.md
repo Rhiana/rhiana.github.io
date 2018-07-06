@@ -34,7 +34,7 @@ permalink: /about/
       <span>Jun 2018</span>
     </div>
     <div class="description">
-      <h3><a href="https://presenting-graphs.herokuapp.com/" target="_blank">SVG graph library</a></h3>
+      <h3><a href="https://svg-graphs-on-rails.herokuapp.com/" target="_blank">SVG graph library</a></h3>
       <p>Started a library of <a href="/portfolio/#svg-graphs2018"> SVG graphs drawn with Ruby code</a>.</p>
       <p>
         <a href="https://github.com/Rhiana/presenting_graphs" target="_blank"><span class="icon icon--github">{% include icon-github.svg %}</span>Code on Github</a>
