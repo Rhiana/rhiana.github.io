@@ -44,6 +44,17 @@ permalink: /about/
 
   <div class="grid">
     <div class="icon">
+    <img src="/img/reinteractive-logo.jpg" alt="reinteractive">
+      <span>May 2018</span>
+    </div>
+    <div class="description">
+      <h3><a href="https://reinteractive.com/posts/355-accessibility-on-rails" target="_blank">reinteractive Article</a></h3>
+      <p>I wrote an article published by reinteractive on some tips to improve accessibility in a Ruby on Rails code base</p>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="icon">
     <img src="/img/mascot.svg" alt="Ruby logo">
       <span>Mar 2018</span>
     </div>
