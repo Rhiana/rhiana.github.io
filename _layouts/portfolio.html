@@ -1,0 +1,17 @@
+---
+---
+<article id="{{ page.ref }}">
+  <header>
+    <h3>{{ page.title }}</h3>
+    <h4>{{ page.subtitle }}</h4>
+  </header>
+  {% if page.image %}
+    <a href="{{ page.link }}" target="_blank">
+      <img src="{{ page.image }}" alt="{{ page.alt }}">
+    </a>
+  {% endif %}
+  {% if page.video %}
+    <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+  {% endif %}
+  <p>{{ content }}</p>
+</article>
