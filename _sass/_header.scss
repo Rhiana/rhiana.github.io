@@ -1,28 +1,138 @@
+/**
+ * Site header
+ */
 .site-header {
-  .site-nav {
-    margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 101px;
+  background-color: $rhiana-color;
+  border-bottom: 1px solid white;
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
   }
 }
+
+
+.site-nav {
+  .menu-icon {
+    display: none;
+  }
+  .page-link {
+    display: inline-block;
+    height: 101px;
+    line-height: 101px;
+    color: white;
+    transition: all 0.5s;
+    padding: 0 20px;
+    &.About:hover,
+    &.About:focus,
+    &.About.active {
+  		background-color: $about-color;
+  	}
+    &.Portfolio:hover,
+    &.Portfolio:focus,
+    &.Portfolio.active {
+      background-color: $portfolio-color;
+    }
+    &.Presentations:hover,
+    &.Presentations:focus,
+    &.Presentations.active {
+      background-color: $presentation-color;
+    }
+    &.Publications:hover,
+    &.Publications:focus,
+    &.Publications.active {
+      background-color: $publication-color;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        width: 18px;
+        height: 15px;
+
+        path {
+          fill: $grey-color-dark;
+        }
+      }
+    }
+
+    .trigger {
+      clear: both;
+      display: none;
+    }
+
+    &:hover .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+      margin-right: 0px;
+      color: $text-color;
+      line-height: $base-line-height;
+      height: auto;
+      &:hover,
+      &:focus,
+      &.active {
+        color: white;
+      }
+    }
+  }
+}
+
 .banner {
   padding: 1em;
   &.Rhiana {
-    background-color: #46117b;
+    background-color: $rhiana-color;
     color: white;
   }
 	&.About {
-		background-color: #7b1146;
+		background-color: $about-color;
     color: white;
 	}
   &.Portfolio {
-    background-color: #117b7b;
+    background-color: $portfolio-color;
     color: white;
   }
   &.Presentations {
-    background-color: #7b7b11;
+    background-color: $presentation-color;
     color: white;
   }
   &.Publications {
-    background-color: #117b11;
+    background-color: $publication-color;
     color: white;
   }
 }
