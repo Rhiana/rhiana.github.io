@@ -1,0 +1,26 @@
+
+.publications-page {
+  article {
+    border: 2px solid $publication-color;
+    border-radius: 10px;
+    margin-bottom: 2em;
+  }
+  img {
+    border-bottom: 2px solid $publication-color;
+    border-radius: 10px 10px 0 0;
+  }
+  h3 a {
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+    color: $publication-color;
+    padding: 10px 20px;
+  }
+  h4 {
+    color: #117b46;
+    padding: 10px 20px;
+  }
+  p, p a {
+    padding: 10px 20px;
+  }
+}

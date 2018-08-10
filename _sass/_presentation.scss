@@ -1,0 +1,18 @@
+.presentation-page {
+  article {
+    border-bottom: 2px dashed $presentation-color;
+    padding: 1em 0;
+  }
+  h3 {
+    color: $presentation-color;
+  }
+  h4 {
+    color:#117b46;
+  }
+  iframe {
+    margin: 1em 0;
+    @include media-query($on-palm) {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+.portfolio-page {
+  article {
+    border-bottom: 2px dashed $portfolio-color;
+    padding: 1em 0;
+  }
+  iframe {
+    @include media-query($on-palm) {
+      width: 100%;
+    }
+  }
+  h3 {
+    color: $portfolio-color;
+  }
+  h4 {
+    color:#117b46;
+  }
+  img, iframe {
+    margin: 1em 0;
+  }
+}
