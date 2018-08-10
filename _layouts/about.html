@@ -1,0 +1,12 @@
+---
+---
+<article class="grid">
+  <div class="icon">
+    <img src="{{ page.logo }}" alt="{{ page.alt }}"/>
+    <span>{{ page.date | date: "%B %Y" }}</span>
+  </div>
+  <div class="description">
+    <h3><a href="{{ page.link }}" target="_blank">{{ page.title }}</a></h3>
+    <p>{{ content }}</p>
+  </div>
+</article>
