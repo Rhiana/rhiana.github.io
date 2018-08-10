@@ -1,6 +1,6 @@
 .about-page {
   .grid {
-    border-bottom: 2px dashed #7b1146;
+    border-bottom: 2px dashed $about-color;
     padding-bottom: 1em;
     .icon {
       width: 22%;
@@ -13,7 +13,7 @@
       }
       span {
         margin-left: 20%;
-        color: #7b1146;
+        color: $about-color;
         @include media-query($on-palm) {
           display: inline-block;
           text-align: center;
@@ -35,7 +35,7 @@
       }
       h3,
       h3 a {
-        color: #7b1146;
+        color: $about-color;
       }
     }
   }

@@ -1,21 +1,21 @@
 .home {
 	.about-banner {
-    background-color: #7b1146;
+    background-color: $about-color;
     color: white;
     padding: 1em;
   }
   .portfolio-banner {
-    background-color: #117b7b;
+    background-color: $portfolio-color;
     color: white;
     padding: 1em;
   }
   .presentations-banner {
-    background-color: #7b7b11;
+    background-color: $presentation-color;
     color: white;
     padding: 1em;
   }
   .publications-banner {
-    background-color: #117b11;
+    background-color: $publication-color;
     color: white;
     padding: 1em;
   }
@@ -27,7 +27,7 @@
     margin-right: 3%;
     img {
       width: 150px;
-      height: 150px;        
+      height: 150px;
       border-radius: 50%;
       margin: 1em 0;
       &.transparent {
