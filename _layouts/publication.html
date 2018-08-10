@@ -1,0 +1,21 @@
+---
+---
+<article id="{{ page.ref }}">
+  {% if page.image %}
+    <a href="{{ page.link }}" target="_blank">
+      <img src="{{ page.image }}" alt="Preview of the article">
+    </a>
+  {% endif %}
+  <header>
+    <h3>
+      <a href="{{ page.link }}">
+        {{ page.title }}
+      </a>
+    </h3>
+    {% for subtitle in page.subtitle %}
+      <h4>{{ subtitle }}</h4>
+    {% endfor %}
+  </header>
+
+  <p>{{ content }}</p>
+</article>
