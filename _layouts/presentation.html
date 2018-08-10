@@ -1,0 +1,14 @@
+---
+---
+<article id="{{ page.ref }}">
+  <header>
+    <h3>{{ page.title }}</h3>
+  {% for subtitle in page.subtitle %}
+    <h4>{{ subtitle }}</h4>
+  {% endfor %}
+  </header>
+  {% if page.video %}
+    <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+  {% endif %}
+  <p>{{ content }}</p>
+</article>
