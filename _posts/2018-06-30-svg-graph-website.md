@@ -25,7 +25,4 @@ This library is where I keep my examples of this for reference.
  - Ruby on Rails application
  - SVG's
 
-<a href="https://github.com/Rhiana/presenting_graphs" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/presenting_graphs)

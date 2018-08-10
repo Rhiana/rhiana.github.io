@@ -15,7 +15,4 @@ Personal project to create a website to track towns and party movements for a ro
  - JS Leaflet for maps
  - Heroku for hosting
 
-<a href="https://github.com/Rhiana/mouse_guard" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/mouse_guard)

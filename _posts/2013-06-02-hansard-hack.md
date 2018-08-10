@@ -19,7 +19,4 @@ This uses the D3 JavaScript library with added parameters measuring the intent o
 **Technology Used:**
  - D3 JS library
 
-<a href="https://github.com/DanielHeath/hansard-hack" target="_black">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/DanielHeath/hansard-hack)

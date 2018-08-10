@@ -12,7 +12,4 @@ Gave a talk going through the process where I made a line graph in a website. In
 
 [Blog post on reinteractive](https://reinteractive.com/posts/349-presenting-svg-graphs)
 
-<a href="https://github.com/Rhiana/presenting_graphs" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/presenting_graphs)

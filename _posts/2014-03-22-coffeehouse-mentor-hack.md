@@ -16,7 +16,4 @@ The theme of the project was community, [CoffeeHouse Mentor](http://coffee-house
  - Ruby on Rails application
  - Hosted on Heroku
 
-<a href="https://github.com/Rhiana/mentorme" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/mentorme)

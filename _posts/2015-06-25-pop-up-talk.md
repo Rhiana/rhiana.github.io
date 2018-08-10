@@ -10,7 +10,4 @@ Worked example on how to make a non standard web component accessible for people
 
 [Slides on slides.com](http://slides.com/rhianaheath/pop-up-accessibility#/)
 
-<a href="https://github.com/Rhiana/popup-accessibility" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/popup-accessibility)

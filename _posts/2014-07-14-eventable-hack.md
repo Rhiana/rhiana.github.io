@@ -27,7 +27,4 @@ The [Melbourne Events](http://www.visitmelbourne.com/Events) website has since b
  - Wheelmap (existing accessibility code base and data set)
  - Ruby application with Python analytics
 
-<a href="https://github.com/event-able/event-able" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/event-able/event-able)

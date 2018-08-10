@@ -15,7 +15,4 @@ Work project to update our home website for [WebSurvey](http://www.websurvey.com
  - SASS
  - Gulp
 
-<a href="https://github.com/strategicdata/websurvey.com.au" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/strategicdata/websurvey.com.au)

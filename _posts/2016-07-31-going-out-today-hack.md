@@ -18,7 +18,4 @@ As well as up to date weather information from the BOM with UV ratings and recom
  - Ruby on Rails application
  - React JS
 
-<a href="https://github.com/radwitches/going-out" target="_blank">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
-  Code on Github
-</a>
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/radwitches/going-out)
