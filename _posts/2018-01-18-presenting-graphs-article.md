@@ -3,7 +3,7 @@ layout: publication
 ref: "reinteractive-svg-graphs-2018"
 link: "https://reinteractive.com/posts/349-presenting-svg-graphs"
 title:  "Presenting SVG Graphs"
-subtitle: ["reinteractive | Jan 2018"]
+subtitle: ["reinteractive | January 2018"]
 image: "/img/reinteractive-rails-graphs-blog-preview.png"
 ---
 
