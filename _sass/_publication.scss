@@ -1,5 +1,12 @@
 
 .publications-page {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 20px;
+  &.wrapper {
+    width: 90%;
+    max-width: 1300px;
+  }
   article {
     border: 2px solid $publication-color;
     border-radius: 10px;
@@ -8,19 +15,28 @@
   img {
     border-bottom: 2px solid $publication-color;
     border-radius: 10px 10px 0 0;
+    max-height: 250px;
+    width: 100%;
+    object-fit:contain;
+    background-color: lighten($publication-color, 60);
+  }
+  h3 {
+    margin-bottom: 0;
   }
   h3 a {
     display: inline-block;
-    width: 100%;
     cursor: pointer;
     color: $publication-color;
     padding: 10px 20px;
+    font-size: 24px;
   }
   h4 {
     color: #117b46;
     padding: 10px 20px;
+    font-size: 18px;
+    margin-bottom: 0;
   }
-  p, p a {
+  p {
     padding: 10px 20px;
   }
 }
