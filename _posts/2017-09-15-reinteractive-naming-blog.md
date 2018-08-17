@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  "reinteractive Blog"
+title:  "reinteractive Article: Naming"
 logo: "/img/reinteractive-logo.jpg"
 alt: "reinteractive logo"
 link: "https://reinteractive.com/posts/334-front-end-naming-conventions"

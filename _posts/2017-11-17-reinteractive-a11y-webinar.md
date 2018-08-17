@@ -10,4 +10,4 @@ Hosted a webinar through reinteractive on [The 5 W's of Accessibility](/presenta
 
 [<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/a11y_demo)
 
-[Blog post on reinteractive](https://reinteractive.com/posts/346-the-five-w-s-of-accessibility)
+[Blog post](/publications/#reinteractive-5-ws-a11y-2017)

@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  "reinteractive Article"
+title:  "reinteractive Article: Frameworks"
 logo: "/img/reinteractive-logo.jpg"
 alt: "reinteractive logo"
 link: "https://reinteractive.com/posts/348-should-i-use-a-front-end-framework"
