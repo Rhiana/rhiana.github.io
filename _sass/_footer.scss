@@ -7,6 +7,10 @@
 	background-color: $footer-color;
 	color: white;
 }
+.site-footer a {
+  color: white;
+  text-decoration: underline;
+}
 
 .footer-heading {
   font-size: 18px;
@@ -21,7 +25,6 @@
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
