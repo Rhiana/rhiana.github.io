@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  "DDD Speaker workshop"
+title:  "DDD Conference Talk"
 logo: "/img/ddd-logo.jpg"
 alt: "ddd logo"
 link: "https://www.dddmelbourne.com/"
