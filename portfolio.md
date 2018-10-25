@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Websites, Hack Day Projects
+subtitle: Personal and Professional Websites, Hack Day Projects
 permalink: /portfolio/
 ---
 
