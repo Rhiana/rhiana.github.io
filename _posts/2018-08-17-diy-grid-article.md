@@ -1,6 +1,6 @@
 ---
 layout: publication
-ref: "reinteractive-diy grid-2018"
+ref: "reinteractive-diy-grid-2018"
 link: "https://reinteractive.com/posts/362-diy-css-grids"
 title:  "DIY Grids"
 subtitle: ["reinteractive | August 2018"]
