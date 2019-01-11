@@ -6,7 +6,7 @@ alt: "reinteractive webinars logo"
 link: "https://reinteractive.com/community/webinars"
 ---
 
-Hosted a webinar through reinteractive on [The 5 W's of Accessibility](/presentations/#five-ws-a11y) giving some guidelines on how to include accessibility in a web development project then going through a worked example.
+Hosted a webinar through reinteractive on [The 5 W's of Accessibility](/presentations/#five-ws-a11y) how to include accessibility in a web development project.
 
 [<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/a11y_demo)
 

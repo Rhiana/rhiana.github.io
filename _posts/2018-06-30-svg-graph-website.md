@@ -7,7 +7,6 @@ image: "/img/graph-website.png"
 alt: "preview image of the website"
 link: "https://svg-graphs-on-rails.herokuapp.com/"
 ---
-
 This project is about [SVG graphs](https://svg-graphs-on-rails.herokuapp.com/), a personal project made for professional development June 2018.
 
 Previously I had made graphs like this with a javascript library generating the SVG code, however this is impractical on a project where the data constantly changes and the designs are very specific.

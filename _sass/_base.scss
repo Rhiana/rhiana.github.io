@@ -31,10 +31,14 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+blockquote, pre,
+dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+}
+
+p, ul, ol, {
+  margin-bottom: 1.5em;
 }
 
 
@@ -43,8 +47,8 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 
@@ -53,11 +57,11 @@ img {
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
 
 
@@ -66,14 +70,14 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+       margin-bottom: 0;
+  }
 }
 
 
@@ -83,26 +87,26 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-family: $title-font-family;
+  font-weight: $base-font-weight;
+  line-height: 1.1;
 }
-
-
 
 /**
  * Links
  */
 a {
-    color: $link-colour;
-    text-decoration: none;
+  color: $link-colour;
+  text-decoration: none;
 
-    &:visited {
-        color: darken($link-colour, 15%);
-    }
+  &:visited {
+    color: darken($link-colour, 15%);
+  }
 
-    &:hover,
-    &:focus {
-        color: $text-color;
-        text-decoration: underline;
-    }
+  &:hover,
+  &:focus {
+    color: $text-color;
+    text-decoration: underline;
+  }
 }
 
 
@@ -111,16 +115,16 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 
