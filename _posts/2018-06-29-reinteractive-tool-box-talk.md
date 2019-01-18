@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Toolbox Talk"
-logo: "/img/reinteractive-logo.jpg"
+logo: "/img/reinteractive-logo.png"
 alt: "reinteractive logo"
 link: "https://reinteractive.com/"
 ---

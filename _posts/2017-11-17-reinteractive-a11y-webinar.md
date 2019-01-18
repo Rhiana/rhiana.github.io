@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Webinars"
-logo: "/img/reinteractive-webinars-logo.jpg"
+logo: "/img/reinteractive-webinars-logo.png"
 alt: "reinteractive webinars logo"
 link: "https://reinteractive.com/community/webinars"
 ---

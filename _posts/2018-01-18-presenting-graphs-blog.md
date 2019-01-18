@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: SVG graphs"
-logo: "/img/reinteractive-logo.jpg"
+logo: "/img/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/349-presenting-svg-graphs"
 ---

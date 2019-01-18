@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: A11y on Rails"
-logo: "/img/reinteractive-logo.jpg"
+logo: "/img/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/355-accessibility-on-rails"
 ---
