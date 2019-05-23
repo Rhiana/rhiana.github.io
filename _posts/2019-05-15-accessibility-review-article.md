@@ -7,4 +7,4 @@ subtitle: ["reinteractive | May 2019"]
 image: "/img/reinteractive-a11y-review-blog-preview.png"
 ---
 
-I wrote article on explaining the new Accessibility service I started at work
+I wrote article on explaining the new [Accessibility Review](/portfolio/#accessibility_review2019) service I started at work
