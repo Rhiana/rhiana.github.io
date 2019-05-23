@@ -38,8 +38,12 @@
         width: 100%;
       }
       h3 a {
-        font-size: 1.953rem;
+        font-size: 1.753rem;
         color: $about-color;
+        text-decoration: none;
+        &:hover, &:focus {
+          text-decoration: underline;
+        }
       }
     }
   }

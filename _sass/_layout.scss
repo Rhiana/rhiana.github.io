@@ -27,4 +27,10 @@
       font-size: 18px;
     }
   }
+  a {
+    text-decoration: underline;
+    &:hover, &:focus {
+      text-decoration: none;
+    }
+  }
 }
