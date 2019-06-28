@@ -8,16 +8,20 @@ $base-line-height:  1.5;
 
 $text-color-dark:     #111111;
 $text-color-light:    #fdfdfd;
-$background-color:    #fdfdfd;
+
+$bg-color-dark:       #1D2031;
+$bg-color-light:      #fdfdfd;
 $brand-color:         #2a7ae2;
 
 $grey-color:          #828282;
-$grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     darken($grey-color, 25%);
+$grey-color-light:    lighten($grey-color, 40%);
 
-$bright-blue:	        #3f3fe5;
+$bright-blue:	        #5F8DDE;
+$dark-blue:	          #6172B0;
 
-$link-colour:         $bright-blue;
+$link-colour-dark:    $dark-blue;
+$link-colour-light:   $bright-blue;
 
 $about-color:         #7b1146;
 $rhiana-color:        #46117b;

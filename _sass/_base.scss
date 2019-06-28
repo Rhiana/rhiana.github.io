@@ -8,6 +8,28 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+// Setting some theme colours
+
+:root {
+	--color-scheme-main-background: #{$bg-color-light};
+	--color-scheme-main-text-color: #{$text-color-dark};
+}
+
+/* Light mode */
+@include color-scheme($light) {
+	:root {
+	  --color-scheme-main-background: #{$bg-color-light};
+		--color-scheme-main-text-color: #{$text-color-dark};
+	}
+}
+
+/* Dark mode */
+@include color-scheme($dark) {
+	:root {
+		--color-scheme-main-background: #{$bg-color-dark};
+		--color-scheme-main-text-color: #{$text-color-light};
+	}
+}
 
 
 /**
@@ -15,8 +37,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color-dark;
-  background-color: $background-color;
+  color: var(--color-scheme-main-text-color);
+  background-color: var(--color-scheme-main-background);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -24,8 +46,6 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -93,17 +113,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-colour;
+  color: $link-colour-dark;
   text-decoration: none;
 
   &:visited {
-    color: darken($link-colour, 15%);
+    color: currentColor;
   }
 
   &:hover,
   &:focus {
-    color: darken($link-colour, 40%);
+    color: currentColor;
     text-decoration: underline;
+  }
+  @include color-scheme($dark) {
+    color: $link-colour-light;
   }
 }
 

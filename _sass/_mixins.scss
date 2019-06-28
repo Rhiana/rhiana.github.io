@@ -7,16 +7,34 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// System colour themes
+$dark:             dark;
+$light:            light;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
 // }
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Use media queries like this:
+// @include color-scheme($dark) {
+//   .wrapper {
+//     background-color: black;
+//     color: white;
+//   }
+// }
+
+@mixin color-scheme($theme) {
+  @media (prefers-color-scheme: $theme) {
     @content;
   }
 }
