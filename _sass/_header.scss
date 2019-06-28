@@ -7,7 +7,7 @@
   justify-content: space-between;
   height: 101px;
   background-color: $rhiana-color;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid $text-color-light;
   // Positioning context for the mobile navigation icon
   position: sticky;
   top: 0;
@@ -47,7 +47,7 @@
     display: inline-block;
     height: 101px;
     line-height: 101px;
-    color: white;
+    color: $text-color-light;
     transition: all 0.5s;
     padding: 0 15px;
     &.About:hover,
@@ -113,13 +113,13 @@
       display: block;
       padding: 5px 10px;
       margin-right: 0px;
-      color: $text-color;
+      color: $text-color-dark;
       line-height: $base-line-height;
       height: auto;
       &:hover,
       &:focus,
       &.active {
-        color: white;
+        color: $text-color-light;
       }
     }
   }
@@ -129,22 +129,22 @@
   padding: 1em;
   &.Rhiana {
     background-color: $rhiana-color;
-    color: white;
+    color: $text-color-light;
   }
 	&.About {
 		background-color: $about-color;
-    color: white;
+    color: $text-color-light;
 	}
   &.Portfolio {
     background-color: $portfolio-color;
-    color: white;
+    color: $text-color-light;
   }
   &.Presentations {
     background-color: $presentation-color;
-    color: white;
+    color: $text-color-light;
   }
   &.Publications {
     background-color: $publication-color;
-    color: white;
+    color: $text-color-light;
   }
 }

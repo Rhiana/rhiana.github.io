@@ -1,26 +1,26 @@
 .home {
 	.about-banner {
     background-color: $about-color;
-    color: white;
+    color: $text-color-light;
     padding: 1em;
   }
   .portfolio-banner {
     background-color: $portfolio-color;
-    color: white;
+    color: $text-color-light;
     padding: 1em;
   }
   .presentations-banner {
     background-color: $presentation-color;
-    color: white;
+    color: $text-color-light;
     padding: 1em;
   }
   .publications-banner {
     background-color: $publication-color;
-    color: white;
+    color: $text-color-light;
     padding: 1em;
   }
   h1 a {
-    color: white;
+    color: $text-color-light;
   }
   .icon {
     width: 30%;
@@ -31,7 +31,7 @@
       border-radius: 50%;
       margin: 1em 0;
       &.transparent {
-        background-color: white;
+        background-color: $background-color;
       }
     }
     @include media-query($on-palm) {

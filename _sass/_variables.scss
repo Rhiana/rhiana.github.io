@@ -1,22 +1,23 @@
 // Our variables
-$base-font-family: 'Lora', serif;
+$base-font-family:  'Lora', serif;
 $title-font-family: 'Poppins', sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$base-font-size:    16px;
+$base-font-weight:  400;
+$small-font-size:   $base-font-size * 0.875;
+$base-line-height:  1.5;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$text-color-dark:     #111111;
+$text-color-light:    #fdfdfd;
+$background-color:    #fdfdfd;
+$brand-color:         #2a7ae2;
 
-$bright-blue:	     #3f3fe5;
+$grey-color:          #828282;
+$grey-color-light:    lighten($grey-color, 40%);
+$grey-color-dark:     darken($grey-color, 25%);
 
+$bright-blue:	        #3f3fe5;
 
-$link-colour:      $bright-blue;
+$link-colour:         $bright-blue;
 
 $about-color:         #7b1146;
 $rhiana-color:        #46117b;
