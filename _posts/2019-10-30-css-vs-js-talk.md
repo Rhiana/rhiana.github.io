@@ -11,6 +11,8 @@ More and more websites are using large amounts of Javascript in every aspect of 
 
 And no matter what technology your application is built on, there are ways to improve the user experience for people who can’t or don’t have javascript enabled.
 
+[Video on Conffab](https://conffab.com/video/things-you-can-do-with-css-that-used-to-need-js/)
+
 [Slides on slides.com](https://slides.com/rhianaheath/deck-11)
 
 [Code on CodePen](https://codepen.io/rhiana-the-selector)
