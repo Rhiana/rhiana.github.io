@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Ruby on Rails Meetup"
-logo: "/img/mascot.svg"
+logo: "/img/logos/mascot.svg"
 alt: "Ruby logo"
 link: "http://ruby.org.au/meetups/mel.html"
 ---

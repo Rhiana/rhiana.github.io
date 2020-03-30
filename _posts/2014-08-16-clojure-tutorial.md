@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Clojure Tutorial"
-logo: "/img/clojurebridge.jpg"
+logo: "/img/logos/clojurebridge.jpg"
 alt: "clojure bridge logo"
 link: "http://www.clojurebridge.org/events/2014-08-01-melbourne-australia"
 ---

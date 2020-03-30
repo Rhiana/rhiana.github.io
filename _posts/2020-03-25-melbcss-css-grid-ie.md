@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "MelbCSS: CSS Grid in IE"
-logo: "/img/melbcss-logo.jpeg"
+logo: "/img/logos/melbcss-logo.jpeg"
 alt: "Melbourne CSS"
 link: "https://www.meetup.com/en-AU/Melbourne-CSS/"
 ---

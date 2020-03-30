@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "YOW Workshop"
-logo: "/img/YOW.png"
+logo: "/img/logos/YOW.png"
 alt: "YOW logo"
 link: "https://www.eventbrite.com.au/e/yow-depthfirst-workshop-technical-presentation-with-damian-conway-tickets-15990610346?ref=ebapi"
 ---

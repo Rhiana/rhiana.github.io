@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Treehouse Web Design Course"
-logo: "/img/treehouse.png"
+logo: "/img/logos/treehouse.png"
 alt: "Treehouse logo"
 link: "https://teamtreehouse.com/library/web-design-process"
 ---

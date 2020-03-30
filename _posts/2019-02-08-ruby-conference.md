@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Ruby Conference AU 2019"
-logo: "/img/ruby-conf-logo-2019.png"
+logo: "/img/logos/ruby-conf-logo-2019.png"
 alt: "Ruby Conf AU 2019"
 link: "https://www.rubyconf.org.au/2019"
 ---

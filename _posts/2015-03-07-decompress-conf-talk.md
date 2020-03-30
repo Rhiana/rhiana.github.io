@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "CSS Conference - Decompress Talk"
-logo: "/img/decompress.png"
+logo: "/img/logos/decompress.png"
 alt: "decompress logo"
 link: "http://decompress.com.au/"
 ---

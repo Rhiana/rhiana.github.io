@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Introduction to Perl"
-logo: "/img/perltraining.png"
+logo: "/img/logos/perltraining.png"
 alt: "Perl Australia logo"
 link: "http://perltraining.com.au/courses/programmingperl.html"
 ---

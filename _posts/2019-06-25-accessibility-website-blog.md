@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: How we made our website Accessible"
-logo: "/img/reinteractive-logo.png"
+logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/397-how-we-made-our-website-accessible"
 ---

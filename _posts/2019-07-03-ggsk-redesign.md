@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Good Games: Re-designing a customer portal"
-logo: "/img/gg-logo.png"
+logo: "/img/logos/gg-logo.png"
 alt: "Good Games"
 link: "https://www.goodgames.com.au/au/"
 ---

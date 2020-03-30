@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "DDD Conference Talk"
-logo: "/img/ddd-logo.jpg"
+logo: "/img/logos/ddd-logo.jpg"
 alt: "ddd logo"
 link: "https://www.dddmelbourne.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "SVG graph library"
-logo: "/img/graphs.png"
+logo: "/img/logos/graphs.png"
 alt: "Circle graph"
 link: "https://svg-graphs-on-rails.herokuapp.com/"
 ---

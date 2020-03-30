@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Rails Camp"
-logo: "/img/railscamp.jpg"
+logo: "/img/logos/railscamp.jpg"
 alt: "Rails Camp logo"
 link: "http://railscamps.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Linux Conference 2017"
-logo: "/img/linux_conf.svg"
+logo: "/img/logos/linux_conf.svg"
 alt: "linux conf logo"
 link: "https://lca2017.linux.org.au/index.html"
 ---

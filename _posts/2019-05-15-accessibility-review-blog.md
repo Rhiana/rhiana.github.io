@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: Is your Application Accessible?"
-logo: "/img/reinteractive-logo.png"
+logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/391-is-your-application-accessible-for-everyone-to-use"
 ---

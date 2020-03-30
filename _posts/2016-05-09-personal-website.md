@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Personal Website"
-logo: "/img/rhiana_icon.png"
+logo: "/img/logos/rhiana_icon.png"
 alt: "My logo"
 link: "http://rhiana.heath.cc/"
 ---

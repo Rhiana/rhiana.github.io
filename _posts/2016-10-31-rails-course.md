@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Rails for Zombies"
-logo: "/img/rails-for-zombies.jpg"
+logo: "/img/logos/rails-for-zombies.jpg"
 alt: "Rails for Zombies logo"
 link: "http://railsforzombies.org/"
 ---

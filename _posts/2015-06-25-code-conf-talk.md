@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Web Directions Code"
-logo: "/img/Code-wrap-up_header.jpg"
+logo: "/img/logos/Code-wrap-up_header.jpg"
 alt: "code logo"
 link: "https://www.webdirections.org/code15/"
 ---

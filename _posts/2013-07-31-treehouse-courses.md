@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Treehouse Front End Course"
-logo: "/img/treehouse.png"
+logo: "/img/logos/treehouse.png"
 alt: "Treehouse logo"
 link: "https://teamtreehouse.com/tracks/front-end-web-development"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "CSS MeetUp"
-logo: "/img/cssmeetup.jpeg"
+logo: "/img/logos/cssmeetup.jpeg"
 alt: "CSS MeetUplogo"
 link: "http://www.meetup.com/en-AU/MelbCSS/"
 ---

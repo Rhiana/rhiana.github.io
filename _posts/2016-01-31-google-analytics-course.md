@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Google Analytics Course"
-logo: "/img/googleanalytics.png"
+logo: "/img/logos/googleanalytics.png"
 alt: "Google Analytics logo"
 link: "https://analyticsacademy.withgoogle.com/"
 ---

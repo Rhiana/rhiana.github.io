@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "SydCSS: CSS vs JS"
-logo: "/img/sydcss-logo.jpeg"
+logo: "/img/logos/sydcss-logo.jpeg"
 alt: "Sydney CSS"
 link: "https://www.meetup.com/en-AU/SydCSS/"
 ---

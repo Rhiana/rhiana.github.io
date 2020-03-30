@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Page Up Lunch and Learn"
-logo: "/img/pageup.png"
+logo: "/img/logos/pageup.png"
 alt: "Page Up logo"
 link: "http://www.pageuppeople.com/"
 ---

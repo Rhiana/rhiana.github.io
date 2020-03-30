@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Sitepoint Article"
-logo: "/img/sitepoint.jpg"
+logo: "/img/logos/sitepoint.jpg"
 alt: "Sitepoint logo"
 link: "https://www.sitepoint.com/making-bootstrap-accessible/"
 ---

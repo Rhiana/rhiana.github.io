@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Certificate of Achievement HTTP Fundamentals"
-logo: "/img/pluralsight.jpg"
+logo: "/img/logos/pluralsight.jpg"
 alt: "Plural Sight logo"
 link: "https://www.pluralsight.com/courses/xhttp-fund"
 ---

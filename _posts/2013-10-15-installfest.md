@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Rails installfest"
-logo: "/img/installfest_logo.png"
+logo: "/img/logos/installfest_logo.png"
 alt: "reinteractive installfest logo"
 link: "http://railsinstallfest.org/"
 ---

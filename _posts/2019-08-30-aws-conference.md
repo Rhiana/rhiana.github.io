@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "AWS Community Day Conference Talk"
-logo: "/img/aws-logo.png"
+logo: "/img/logos/aws-logo.png"
 alt: "aws logo"
 link: "https://awscommunityday2019.splashthat.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Web Directions Workshop"
-logo: "/img/Code-wrap-up_header.jpg"
+logo: "/img/logos/Code-wrap-up_header.jpg"
 alt: "code workshop logo"
 link: "https://www.webdirections.org/about/"
 ---

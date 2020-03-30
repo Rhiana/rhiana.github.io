@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "WebDirections Summit: CSS vs JS"
-logo: "/img/web_directions_logo.png"
+logo: "/img/logos/web_directions_logo.png"
 alt: "Web Directions"
 link: "https://webdirections.org/wds/schedule.php"
 ---

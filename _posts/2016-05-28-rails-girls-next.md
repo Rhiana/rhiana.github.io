@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Rails Girls Next"
-logo: "/img/railsgirls-sq.png"
+logo: "/img/logos/railsgirls-sq.png"
 alt: "rails girls logo"
 link: "http://railsgirls.com/melbourne"
 ---

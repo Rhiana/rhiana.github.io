@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Be Responsive Meet Up"
-logo: "/img/beresponsive.jpeg"
+logo: "/img/logos/beresponsive.jpeg"
 alt: "Be Responsive logo"
 link: "http://beresponsive.io/"
 ---

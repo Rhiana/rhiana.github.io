@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: Simple CSSGrids for IE"
-logo: "/img/reinteractive-logo.png"
+logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/368-simple-cssgrids-for-ie"
 ---

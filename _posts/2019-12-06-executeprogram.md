@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Execute Program: Typescript course"
-logo: "/img/ep-logo-icon.svg"
+logo: "/img/logos/ep-logo-icon.svg"
 alt: "Execute Program"
 link: "https://www.executeprogram.com/courses"
 ---

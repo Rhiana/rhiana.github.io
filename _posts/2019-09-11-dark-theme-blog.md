@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "reinteractive Article: Simple CSS Dark Theming for Accessibility"
-logo: "/img/reinteractive-logo.png"
+logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"
 link: "https://reinteractive.com/posts/403-simple-css-dark-theming-for-accessibility"
 ---

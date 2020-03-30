@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "WDYK"
-logo: "/img/web_directions_logo.png"
+logo: "/img/logos/web_directions_logo.png"
 alt: "What do you know event"
 link: "http://webdirections.org/wdyk/"
 ---
