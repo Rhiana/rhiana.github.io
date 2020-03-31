@@ -15,7 +15,7 @@
   img {
     border-bottom: 2px solid $publication-color;
     border-radius: 10px 10px 0 0;
-    max-height: 250px;
+    height: 250px;
     width: 100%;
     object-fit:contain;
     background-color: lighten($publication-color, 60);
