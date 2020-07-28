@@ -4,6 +4,7 @@ ref: "css-houdini-paint"
 title:  "CSS Houdini: Paint Demo"
 subtitle: "Conference Project"
 image: "/img/magic_buttons.png"
+link: "https://codepen.io/rhiana-the-selector/project/editor/ZKmgBv"
 alt: "preview image of the website"
 ---
 
