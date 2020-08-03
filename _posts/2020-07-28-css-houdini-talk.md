@@ -10,6 +10,8 @@ Traditional CSS is limiting in a number of ways. While it has many, many attribu
 
 This is where CSS Houdini comes in with its DOM magic. It allows you to craft your own CSS attributes using JS Worklets. Making the code more performant, deliberate and reusable. This can also be combined with their new CSS typed system. Which gives you more control over your attributes and useful errors if something goes wrong.  
 
+[Talk on YouTube](https://www.youtube.com/watch?v=LquUv6SB8Mk&feature=youtu.be&t=2767)
+
 [Slides on slides.com](https://slides.com/rhianaheath/deck-a3f8ee)
 
 [Code on CodePen](https://codepen.io/rhiana-the-selector/project/editor/ZKmgBv)
