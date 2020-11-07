@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "DDD: CSS Houdini, behind the Magic"
-logo: "/img/logos/ddd-melb.png"
+logo: "/img/logos/ddd-melb.jpg"
 alt: "DDD"
 link: "https://www.meetup.com/DDD-Melbourne-By-Night/events/273155147/"
 ---
