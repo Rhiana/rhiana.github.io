@@ -2,7 +2,7 @@
 layout: presentation
 ref: "css-houdini2020"
 title:  "Houdini, behind the CSS"
-subtitle: ["MelbCSS | Jul 2020", "GIDS | Oct 2020"]
+subtitle: ["MelbCSS | Jul 2020", "GIDS | Oct 2020", "DDD | Nov 2020"]
 video: "https://slides.com/rhianaheath/deck-a3f8ee/embed"
 ---
 
