@@ -12,6 +12,8 @@ This is where CSS Houdini comes in with its DOM magic. It allows you to craft yo
 
 [MelbCSS Talk on YouTube](https://www.youtube.com/watch?v=LquUv6SB8Mk&feature=youtu.be&t=2767)
 
+[DDD Talk on YouTube](https://www.youtube.com/watch?v=wCk5QWwFYzs&list=PL-KON16CNxTzxuDP4-qriOvktKdIv9FEy&index=5)
+
 [Slides on slides.com](https://slides.com/rhianaheath/deck-a3f8ee)
 
 [Code on CodePen](https://codepen.io/rhiana-the-selector/project/editor/ZKmgBv)
