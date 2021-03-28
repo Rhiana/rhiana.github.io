@@ -1,7 +1,7 @@
 ---
 layout: about
 title:  "Hover: Here Comes Typed CSS"
-logo: "/img/logos/web_directions_logo.jpeg"
+logo: "/img/logos/web_directions_logo.png"
 alt: "Web Directions"
 link: "https://www.webdirections.org/hover/speakers/rhiana-heath.php"
 ---
