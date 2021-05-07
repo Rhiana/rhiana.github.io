@@ -3,7 +3,7 @@ layout: presentation
 ref: "css-vs-js"
 title:  "Things you can do with CSS that used to need JS"
 subtitle: ["MelbCSS | Sep 2019", "SydCSS | Oct 2019", "WebDirections | Oct 2019"]
-video: "https://slides.com/rhianaheath/deck-11/embed"
+video: "https://slides.com/rhianaheppenstall/deck-11/embed"
 ---
 
 
@@ -13,6 +13,6 @@ And no matter what technology your application is built on, there are ways to im
 
 [Video on Conffab](https://conffab.com/video/things-you-can-do-with-css-that-used-to-need-js/)
 
-[Slides on slides.com](https://slides.com/rhianaheath/deck-11)
+[Slides on slides.com](https://slides.com/rhianaheppenstall/deck-11)
 
 [Code on CodePen](https://codepen.io/rhiana-the-selector)

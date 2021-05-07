@@ -3,7 +3,7 @@ layout: presentation
 ref: "typed-css2021"
 title:  "Move over TypeScript, here comes TypedCSS!"
 subtitle: ["WWC | March 2021", "Hover Conference | Apr 2021"]
-video: "https://slides.com/rhianaheath/move-over-typescript-here-comes-typedcss/embed"
+video: "https://slides.com/rhianaheppenstall/move-over-typescript-here-comes-typedcss/embed"
 ---
 
 Have you ever wondered how a browser makes sense of CSS properties and values? 
@@ -20,5 +20,5 @@ This is where the CSS Typed Object Model comes in. It sits under the umbrella of
 
 In this talk I'm going to take you through the CSS Typed OM and examples of how we can start using and benefiting from TypedCSS. 
 
-[Slides on slides.com](https://slides.com/rhianaheath/move-over-typescript-here-comes-typedcss)
+[Slides on slides.com](https://slides.com/rhianaheppenstall/move-over-typescript-here-comes-typedcss)
 

@@ -10,4 +10,4 @@ Gave a talk going through how I have been building my own grid layout the last f
 
 [Blog post](/publications/#reinteractive-diy grid-2018)
 
-[Slides on slides.com](https://slides.com/rhianaheath/diy-grids)
+[Slides on slides.com](https://slides.com/rhianaheppenstall/diy-grids)

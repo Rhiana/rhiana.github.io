@@ -3,7 +3,7 @@ layout: presentation
 ref: "css-houdini2020"
 title:  "Houdini, behind the CSS"
 subtitle: ["MelbCSS | Jul 2020", "GIDS | Oct 2020", "DDD | Nov 2020"]
-video: "https://slides.com/rhianaheath/deck-a3f8ee/embed"
+video: "https://slides.com/rhianaheppenstall/deck-a3f8ee/embed"
 ---
 
 Traditional CSS is limiting in a number of ways. While it has many, many attributes, if you want to make something outside the DOM box your options are pretty limited. Leading to many CSS hacks to make objects like, triangles for example, a reality in a modern web browser. This clutters up the HTML and CSS with extra elements it doesn't need. This then slows down performance and makes the code harder to read and maintain. 
@@ -14,6 +14,6 @@ This is where CSS Houdini comes in with its DOM magic. It allows you to craft yo
 
 [DDD Talk on YouTube](https://www.youtube.com/watch?v=wCk5QWwFYzs&list=PL-KON16CNxTzxuDP4-qriOvktKdIv9FEy&index=5)
 
-[Slides on slides.com](https://slides.com/rhianaheath/deck-a3f8ee)
+[Slides on slides.com](https://slides.com/rhianaheppenstall/deck-a3f8ee)
 
 [Code on CodePen](https://codepen.io/rhiana-the-selector/project/editor/ZKmgBv)
