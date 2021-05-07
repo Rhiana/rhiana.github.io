@@ -11,7 +11,7 @@ email: heppenstall.rhiana@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a personal portfolio website to store and remember all of my achievements
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://devrhiana.github.io" # the base hostname & protocol for your site
+url: "https://rhiana.github.io" # the base hostname & protocol for your site
 twitter_username: DevRhiana
 github_username:  rhiana
 youtube_username: UCPX-hg94gLZFnTTzVNfzFaw

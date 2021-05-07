@@ -5,7 +5,7 @@ title:  "This Website"
 subtitle: "Personal Project"
 image: "/img/this-website.png"
 alt: "preview image of this website"
-link: "http://rhiana.heath.cc/"
+link: "https://rhiana.github.io/"
 ---
 
 I started this website in 2016. At that point I had been working for a developer for a few years and had attended a number of conferences, hack days, meet ups and completed some courses. I was starting to lose track so I made this as a way to document my journey.
@@ -16,4 +16,4 @@ It has grown over the years with new pages and design revisions. As well as bein
  - [Jekyll](https://jekyllrb.com/)
  - [Github Pages](https://pages.github.com/)
 
-[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/rhiana.heath.cc)
+[<span class="icon icon--github">{% include icon-github.svg %}</span> Code on Github](https://github.com/Rhiana/rhiana.github.io)
