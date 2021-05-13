@@ -9,4 +9,4 @@ image: "/img/itcss_triangle.png"
 
 Blog post adapted from a toolbox talk.
 
-[Slides on slides.com](http://slides.com/rhianaheath/deck-4-5)
+[Slides on slides.com](https://slides.com/rhianaheppenstall/deck-4-5)
