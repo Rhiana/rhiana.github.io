@@ -3,7 +3,7 @@ layout: presentation
 ref: "autism2023"
 title:  "But, You Don't look Autistic?"
 subtitle: ["Ruby Conference | Feb 2023"]
-video: "https://www.youtube.com/watch?v=i85MQxE9TR0"
+video: "https://www.youtube.com/embed/i85MQxE9TR0"
 ---
 
 Put yourself into the eyes of someone with autism… wait that's not how that goes, metaphors are hard. As someone who grew up in an autistic house, I knew we were different, but not why and what to do about it. After stumbling through life, here's what I'd like to share about autism. Wait, shoes!
