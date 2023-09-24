@@ -2,7 +2,7 @@
 layout: presentation
 ref: "autism2023"
 title:  "But, You Don't look Autistic?"
-subtitle: ["Ruby Conference | Feb 2023"]
+subtitle: ["Ruby Conference | Feb 2023", "3P Tech Conference | Mar 2023"]
 video: "https://www.youtube.com/embed/i85MQxE9TR0"
 ---
 
