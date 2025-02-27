@@ -8,17 +8,17 @@
     max-width: 1300px;
   }
   article {
-    border: 2px solid $publication-color;
+    border: 2px solid var(--color-scheme-publication-text-color);
     border-radius: 10px;
     margin-bottom: 2em;
   }
   img {
-    border-bottom: 2px solid $publication-color;
+    border-bottom: 2px solid var(--color-scheme-publication-text-color);
     border-radius: 10px 10px 0 0;
     height: 250px;
     width: 100%;
     object-fit:contain;
-    background-color: lighten($publication-color, 60);
+    background-color: lighten(var(--color-scheme-publication-text-color), 60);
   }
   h3 {
     margin-bottom: 0;
@@ -26,7 +26,7 @@
   h3 a {
     display: inline-block;
     cursor: pointer;
-    color: $publication-color;
+    color: var(--color-scheme-publication-text-color);
     padding: 10px 20px;
     font-size: 24px;
     text-decoration: none;

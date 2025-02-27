@@ -68,7 +68,7 @@
     &.Publications:hover,
     &.Publications:focus,
     &.Publications.active {
-      background-color: $publication-color;
+      background-color: $publication-color-dark;
     }
   }
 
@@ -147,7 +147,7 @@
     color: $text-color-light;
   }
   &.Publications {
-    background-color: $publication-color;
+    background-color: $publication-color-dark;
     color: $text-color-light;
   }
 }
