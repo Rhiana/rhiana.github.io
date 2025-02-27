@@ -53,7 +53,7 @@
     &.About:hover,
     &.About:focus,
     &.About.active {
-  		background-color: $about-color;
+  		background-color: $about-color-dark;
   	}
     &.Portfolio:hover,
     &.Portfolio:focus,
@@ -135,7 +135,7 @@
     color: $text-color-light;
   }
 	&.About {
-		background-color: $about-color;
+		background-color: $about-color-dark;
     color: $text-color-light;
 	}
   &.Portfolio {

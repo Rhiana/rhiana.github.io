@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
 :root {
 	--color-scheme-main-background: #{$bg-color-light};
 	--color-scheme-main-text-color: #{$text-color-dark};
+  --color-scheme-about-text-color: #{$about-color-dark};
 }
 
 /* Light mode */
@@ -20,6 +21,7 @@ dl, dd, ol, ul, figure {
 	:root {
 	  --color-scheme-main-background: #{$bg-color-light};
 		--color-scheme-main-text-color: #{$text-color-dark};
+    --color-scheme-about-text-color: #{$about-color-dark};
 	}
 }
 
@@ -28,6 +30,7 @@ dl, dd, ol, ul, figure {
 	:root {
 		--color-scheme-main-background: #{$bg-color-dark};
 		--color-scheme-main-text-color: #{$text-color-light};
+    --color-scheme-about-text-color: #{$about-color-light};
 	}
 }
 
@@ -57,7 +60,7 @@ dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-p, ul, ol, {
+p, ul, ol {
   margin-bottom: 1.5em;
 }
 

@@ -1,6 +1,6 @@
 .about-page {
   .grid {
-    border-bottom: 2px dashed $about-color;
+    border-bottom: 2px dashed var(--color-scheme-about-text-color);
     height: 13.875rem;
     padding: 0.5em 0;
     @include media-query($on-palm) {
@@ -17,7 +17,7 @@
       }
       span {
         margin-left: 20%;
-        color: $about-color;
+        color: var(--color-scheme-about-text-color);
         @include media-query($on-palm) {
           display: inline-block;
           text-align: center;
@@ -39,7 +39,7 @@
       }
       h3 a {
         font-size: 1.753rem;
-        color: $about-color;
+        color: var(--color-scheme-about-text-color);
         text-decoration: none;
         &:hover, &:focus {
           text-decoration: underline;
