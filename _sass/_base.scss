@@ -17,6 +17,7 @@ dl, dd, ol, ul, figure {
   --color-scheme-portfolio-text-color: #{$portfolio-color-dark};
   --color-scheme-presentation-text-color: #{$presentation-color-dark};
   --color-scheme-publication-text-color: #{$publication-color-dark};
+  --color-scheme-sub-title-text-color: #{$sub-title-dark};
 }
 
 /* Light mode */
@@ -28,6 +29,7 @@ dl, dd, ol, ul, figure {
     --color-scheme-portfolio-text-color: #{$portfolio-color-dark};
     --color-scheme-presentation-text-color: #{$presentation-color-dark};
     --color-scheme-publication-text-color: #{$publication-color-dark};
+    --color-scheme-sub-title-text-color: #{$sub-title-dark};
 	}
 }
 
@@ -40,6 +42,7 @@ dl, dd, ol, ul, figure {
     --color-scheme-portfolio-text-color: #{$portfolio-color-light};
     --color-scheme-presentation-text-color: #{$presentation-color-light};
     --color-scheme-publication-text-color: #{$publication-color-light};
+    --color-scheme-sub-title-text-color: #{$sub-title-light};
 	}
 }
 
