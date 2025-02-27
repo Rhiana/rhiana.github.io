@@ -58,7 +58,7 @@
     &.Portfolio:hover,
     &.Portfolio:focus,
     &.Portfolio.active {
-      background-color: $portfolio-color;
+      background-color: $portfolio-color-dark;
     }
     &.Presentations:hover,
     &.Presentations:focus,
@@ -139,7 +139,7 @@
     color: $text-color-light;
 	}
   &.Portfolio {
-    background-color: $portfolio-color;
+    background-color: $portfolio-color-dark;
     color: $text-color-light;
   }
   &.Presentations {

@@ -1,6 +1,6 @@
 .portfolio-page {
   article {
-    border-bottom: 2px dashed $portfolio-color;
+    border-bottom: 2px dashed var(--color-scheme-portfolio-text-color);
     padding: 1em 0;
   }
   iframe {
@@ -9,7 +9,7 @@
     }
   }
   h3 {
-    color: $portfolio-color;
+    color: var(--color-scheme-portfolio-text-color);
   }
   h4 {
     color:#117b46;
