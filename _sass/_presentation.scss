@@ -1,10 +1,10 @@
 .presentation-page {
   article {
-    border-bottom: 2px dashed $presentation-color;
+    border-bottom: 2px dashed var(--color-scheme-presentation-text-color);
     padding: 1em 0;
   }
   h3 {
-    color: $presentation-color;
+    color: var(--color-scheme-presentation-text-color);
   }
   h4 {
     color:#117b46;

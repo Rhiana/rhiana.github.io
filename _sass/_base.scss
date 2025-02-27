@@ -15,6 +15,7 @@ dl, dd, ol, ul, figure {
 	--color-scheme-main-text-color: #{$text-color-dark};
   --color-scheme-about-text-color: #{$about-color-dark};
   --color-scheme-portfolio-text-color: #{$portfolio-color-dark};
+  --color-scheme-presentation-text-color: #{$presentation-color-dark};
 }
 
 /* Light mode */
@@ -24,6 +25,7 @@ dl, dd, ol, ul, figure {
 		--color-scheme-main-text-color: #{$text-color-dark};
     --color-scheme-about-text-color: #{$about-color-dark};
     --color-scheme-portfolio-text-color: #{$portfolio-color-dark};
+    --color-scheme-presentation-text-color: #{$presentation-color-dark};
 	}
 }
 
@@ -34,6 +36,7 @@ dl, dd, ol, ul, figure {
 		--color-scheme-main-text-color: #{$text-color-light};
     --color-scheme-about-text-color: #{$about-color-light};
     --color-scheme-portfolio-text-color: #{$portfolio-color-light};
+    --color-scheme-presentation-text-color: #{$presentation-color-light};
 	}
 }
 
