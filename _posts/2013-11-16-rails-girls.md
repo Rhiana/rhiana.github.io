@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Rails Girls"
 logo: "/img/logos/railsgirls-sq.png"
 alt: "rails girls logo"

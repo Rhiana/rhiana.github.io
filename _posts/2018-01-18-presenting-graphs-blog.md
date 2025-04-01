@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: SVG graphs"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"

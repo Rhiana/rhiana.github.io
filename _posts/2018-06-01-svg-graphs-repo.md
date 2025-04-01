@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "SVG graph library"
 logo: "/img/logos/graphs.png"
 alt: "Circle graph"

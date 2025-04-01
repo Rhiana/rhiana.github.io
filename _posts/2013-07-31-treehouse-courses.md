@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Treehouse Front End Course"
 logo: "/img/logos/treehouse.png"
 alt: "Treehouse logo"

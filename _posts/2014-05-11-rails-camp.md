@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: plot
 title:  "Rails Camp"
 logo: "/img/logos/railscamp.jpg"
 alt: "Rails Camp logo"
-link: "http://railscamps.com/"
+link: "https://railscamps.com/"
 ---
 
 Spent a weekend away hacking on things, playing games and going for nature walks at Rails camp in Brisbane. I worked on my [Mouseguard](/portfolio/#mouseguard2014) site which I built after the role playing game with maps where you can add pin points and descriptions.

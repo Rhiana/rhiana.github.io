@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: A11y on Rails"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Hover: Here Comes Typed CSS"
 logo: "/img/logos/web_directions_logo.png"
 alt: "Web Directions"

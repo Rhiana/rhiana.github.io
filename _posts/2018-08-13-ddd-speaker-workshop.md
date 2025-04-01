@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "DDD Speaker workshop"
 logo: "/img/logos/ddd-logo.jpg"
 alt: "ddd logo"

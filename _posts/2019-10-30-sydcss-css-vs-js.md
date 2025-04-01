@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "SydCSS: CSS vs JS"
 logo: "/img/logos/sydcss-logo.jpeg"
 alt: "Sydney CSS"

@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: plot
 title:  "Rails installfest"
 logo: "/img/logos/installfest_logo.png"
 alt: "reinteractive installfest logo"
-link: "http://railsinstallfest.org/"
+link: "https://railsinstallfest.org/"
 ---
 
 Skyped into a Rails Installfest in Panama to speak about how I got into Ruby on rails and what it's like to work remote.

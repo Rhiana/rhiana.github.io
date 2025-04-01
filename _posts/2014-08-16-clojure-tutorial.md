@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: plot
 title:  "Clojure Tutorial"
 logo: "/img/logos/clojurebridge.jpg"
 alt: "clojure bridge logo"
-link: "http://www.clojurebridge.org/events/2014-08-01-melbourne-australia"
+link: "https://www.clojurebridge.org/events/2014-08-01-melbourne-australia"
 ---
 
 Completed a weekend tutorial learning Clojure, a functional programming language.

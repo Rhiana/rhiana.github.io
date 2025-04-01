@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Ruby Conference AU 2020"
 logo: "/img/logos/ruby-conf-logo-2020.png"
 alt: "Ruby Conf AU 2020"

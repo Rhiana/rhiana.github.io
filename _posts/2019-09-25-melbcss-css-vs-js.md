@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "MelbCSS: CSS vs JS"
 logo: "/img/logos/melbcss-logo.jpeg"
 alt: "Melbourne CSS"

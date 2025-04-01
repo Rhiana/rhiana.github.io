@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Rails Camp"
 logo: "/img/logos/railscamp.jpg"
 alt: "Rails Camp logo"

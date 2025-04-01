@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: Simple CSS Dark Theming for Accessibility"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"

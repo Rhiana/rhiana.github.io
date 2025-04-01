@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "WWC: Here Comes Typed CSS"
 logo: "/img/logos/wwc.jpeg"
 alt: "Women who code"

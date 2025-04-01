@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Execute Program: Typescript course"
 logo: "/img/logos/ep-logo-icon.svg"
 alt: "Execute Program"

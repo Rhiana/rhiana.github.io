@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Rails installfest"
 logo: "/img/logos/installfest_logo.png"
 alt: "reinteractive installfest logo"

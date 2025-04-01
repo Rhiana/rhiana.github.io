@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Certificate of Achievement HTTP Fundamentals"
 logo: "/img/logos/pluralsight.jpg"
 alt: "Plural Sight logo"

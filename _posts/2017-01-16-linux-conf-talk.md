@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Linux Conference 2017"
 logo: "/img/logos/linux_conf.svg"
 alt: "linux conf logo"

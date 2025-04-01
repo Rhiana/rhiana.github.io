@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Good Games: Re-designing a customer portal"
 logo: "/img/logos/gg-logo.png"
 alt: "Good Games"

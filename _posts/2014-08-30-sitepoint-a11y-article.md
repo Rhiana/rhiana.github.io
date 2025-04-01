@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Sitepoint Article"
 logo: "/img/logos/sitepoint.jpg"
 alt: "Sitepoint logo"

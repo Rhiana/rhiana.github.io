@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "DDD: CSS Houdini, behind the Magic"
 logo: "/img/logos/ddd-melb.jpg"
 alt: "DDD"

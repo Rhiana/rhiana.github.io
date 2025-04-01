@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Google Analytics Course"
 logo: "/img/logos/googleanalytics.png"
 alt: "Google Analytics logo"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Apollo Graph Developer - Associate Certification"
 logo: "/img/logos/badge_sfsiin.svg"
 alt: "apollo graphql"

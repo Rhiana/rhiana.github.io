@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "WWC: Building your first iOS app in SwiftUI"
 logo: "/img/logos/wwc.jpeg"
 alt: "Women who code"

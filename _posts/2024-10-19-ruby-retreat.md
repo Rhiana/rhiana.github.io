@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Ruby Retreat Warrnambool"
 logo: "/img/logos/ruby-retreat-logo.png"
 alt: "ruby retreat"

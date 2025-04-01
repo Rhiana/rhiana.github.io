@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: plot
 title:  "Ruby on Rails Meetup"
 logo: "/img/logos/mascot.svg"
 alt: "Ruby logo"
-link: "http://ruby.org.au/meetups/mel.html"
+link: "https://ruby.org.au/meetups/mel.html"
 ---
 
 Gave a talk on how I [programmed a line graph using a Ruby presentor to draw an SVG](/presentations/#presenting-svg)

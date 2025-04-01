@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "CSS Houdini: Paint Demo"
 logo: "/img/logos/css_houdini.jpg"
 alt: "css houdini"

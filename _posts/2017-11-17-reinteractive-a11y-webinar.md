@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Webinars"
 logo: "/img/logos/reinteractive-webinars-logo.png"
 alt: "reinteractive webinars logo"

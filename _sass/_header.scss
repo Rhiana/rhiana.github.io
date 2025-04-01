@@ -50,9 +50,9 @@
     color: $text-color-light;
     transition: all 0.5s;
     padding: 0 15px;
-    &.About:hover,
-    &.About:focus,
-    &.About.active {
+    &.Plot:hover,
+    &.Plot:focus,
+    &.Plot.active {
   		background-color: $about-color-dark;
   	}
     &.Portfolio:hover,
@@ -134,7 +134,7 @@
     background-color: $rhiana-color;
     color: $text-color-light;
   }
-	&.About {
+	&.Plot {
 		background-color: $about-color-dark;
     color: $text-color-light;
 	}

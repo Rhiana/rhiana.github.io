@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "YOW Workshop"
 logo: "/img/logos/YOW.png"
 alt: "YOW logo"

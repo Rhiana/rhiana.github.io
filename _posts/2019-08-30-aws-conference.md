@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "AWS Community Day Conference Talk"
 logo: "/img/logos/aws-logo.png"
 alt: "aws logo"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Elixir: Armstrong Numbers"
 logo: "/img/logos/elixir.png"
 alt: "Elixir Australia"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Personal Website"
 logo: "/img/logos/rhiana_icon.png"
 alt: "My logo"

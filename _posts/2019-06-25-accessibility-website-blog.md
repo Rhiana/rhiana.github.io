@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: How we made our website Accessible"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"

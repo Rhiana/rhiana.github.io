@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "MelbCSS: CSS Houdini, behind the Magic"
 logo: "/img/logos/melbcss-logo.jpeg"
 alt: "Melbourne CSS"

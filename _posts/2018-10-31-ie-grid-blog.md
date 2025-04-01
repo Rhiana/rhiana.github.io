@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: Simple CSSGrids for IE"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive"

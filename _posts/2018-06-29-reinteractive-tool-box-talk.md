@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Toolbox Talk"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive logo"

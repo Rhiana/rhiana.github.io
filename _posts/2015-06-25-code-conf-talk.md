@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "Web Directions Code"
 logo: "/img/logos/Code-wrap-up_header.jpg"
 alt: "code logo"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "GIDS: CSS Houdini, behind the Magic"
 logo: "/img/logos/gids.jpeg"
 alt: "GIDS"

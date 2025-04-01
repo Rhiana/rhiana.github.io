@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "WebDirections Summit: CSS vs JS"
 logo: "/img/logos/web_directions_logo.png"
 alt: "Web Directions"

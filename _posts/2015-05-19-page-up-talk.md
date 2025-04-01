@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: plot
 title:  "Page Up Lunch and Learn"
 logo: "/img/logos/pageup.png"
 alt: "Page Up logo"
-link: "http://www.pageuppeople.com/"
+link: "https://www.pageuppeople.com/"
 ---
 
 Lead an [hour long tutorial with Q&A on accessibility](/presentations/#a11y-alt). Page Up were looking to improve their internal systems for accessibility.

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "DDD Melbourne 2025"
 logo: "/img/logos/ddd-logo-25.jpg"
 alt: "DDD Melbourne 2025"

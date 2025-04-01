@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "3P Learning Tech Conference 2023"
 logo: "/img/logos/3p-logo.png"
 alt: "3P Learning"

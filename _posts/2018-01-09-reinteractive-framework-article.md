@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plot
 title:  "reinteractive Article: Frameworks"
 logo: "/img/logos/reinteractive-logo.png"
 alt: "reinteractive logo"
