@@ -6,5 +6,5 @@ gem 'webrick'
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
-  gem 'github-pages', '~> 214'
+  gem 'github-pages'
 end
