@@ -60,6 +60,11 @@
     &.Portfolio.active {
       background-color: $portfolio-color-dark;
     }
+    &.Provisions:hover,
+    &.Provisions:focus,
+    &.Provisions.active {
+      background-color: $provision-color-dark;
+    }
     &.Presentations:hover,
     &.Presentations:focus,
     &.Presentations.active {
@@ -130,6 +135,9 @@
 
 .banner {
   padding: 1em;
+  h2 {
+    margin-bottom: 0;
+  }
   &.Home {
     background-color: $rhiana-color;
     color: $text-color-light;
@@ -144,6 +152,10 @@
   }
   &.Presentations {
     background-color: $presentation-color-dark;
+    color: $text-color-light;
+  }
+  &.Provisions {
+    background-color: $provision-color-dark;
     color: $text-color-light;
   }
   &.Publications {

@@ -1,0 +1,30 @@
+.provision-page {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1em;
+
+  @include media-query($on-palm) {
+    display: block;
+  }
+
+  h3 {
+    color: var(--color-scheme-provision-text-color);
+  }
+  h4 {
+    color: var(--color-scheme-sub-title-text-color);
+  }
+
+  article {
+    border-bottom: 2px dashed var(--color-scheme-provision-text-color);
+    padding: 1em 0;
+  }
+
+  aside {
+    border-bottom: 2px dashed var(--color-scheme-sub-title-text-color);
+    padding: 1em 0;
+
+    img {
+      margin-bottom: 1em;
+    }
+  }
+}
