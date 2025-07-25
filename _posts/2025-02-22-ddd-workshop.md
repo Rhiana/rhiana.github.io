@@ -6,4 +6,4 @@ alt: "DDD Melbourne 2025"
 link: "https://www.dddmelbourne.com/agenda"
 ---
 
-Ran an [accessibility workshop on manual testing in the browser](/presentations/#autism2024).
+Ran an [accessibility workshop on manual testing in the browser](/presentations/#a11yTestingWorkshop2024).
